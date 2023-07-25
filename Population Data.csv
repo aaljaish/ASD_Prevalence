@@ -1,0 +1,547 @@
+Geography,Sex,Age_group,Persons
+Newfoundland and Labrador,Male,0 to 4,10929
+Newfoundland and Labrador,Male,5 to 9,12459
+Newfoundland and Labrador,Male,10 to 14,13331
+Newfoundland and Labrador,Male,15 to 19,14174
+Newfoundland and Labrador,Male,20 to 24,15066
+Newfoundland and Labrador,Male,25 to 29,14804
+Newfoundland and Labrador,Male,30 to 34,14441
+Newfoundland and Labrador,Male,35 to 39,14676
+Newfoundland and Labrador,Male,40 to 44,15519
+Newfoundland and Labrador,Male,45 to 49,17862
+Newfoundland and Labrador,Male,50 to 54,20133
+Newfoundland and Labrador,Male,55 to 59,21472
+Newfoundland and Labrador,Male,60 to 64,20770
+Newfoundland and Labrador,Male,65 to 69,19303
+Newfoundland and Labrador,Male,70 to 74,15432
+Newfoundland and Labrador,Male,75 to 79,9378
+Newfoundland and Labrador,Male,80 to 84,5395
+Newfoundland and Labrador,Male,85 to 89,2727
+Newfoundland and Labrador,Male,90 to 94,865
+Newfoundland and Labrador,Male,95 to 99,172
+Newfoundland and Labrador,Male,100 and over,21
+Newfoundland and Labrador,Female,0 to 4,10200
+Newfoundland and Labrador,Female,5 to 9,11678
+Newfoundland and Labrador,Female,10 to 14,12662
+Newfoundland and Labrador,Female,15 to 19,13213
+Newfoundland and Labrador,Female,20 to 24,13654
+Newfoundland and Labrador,Female,25 to 29,14009
+Newfoundland and Labrador,Female,30 to 34,14484
+Newfoundland and Labrador,Female,35 to 39,15885
+Newfoundland and Labrador,Female,40 to 44,16599
+Newfoundland and Labrador,Female,45 to 49,18939
+Newfoundland and Labrador,Female,50 to 54,20957
+Newfoundland and Labrador,Female,55 to 59,21760
+Newfoundland and Labrador,Female,60 to 64,21530
+Newfoundland and Labrador,Female,65 to 69,19867
+Newfoundland and Labrador,Female,70 to 74,16066
+Newfoundland and Labrador,Female,75 to 79,10009
+Newfoundland and Labrador,Female,80 to 84,6692
+Newfoundland and Labrador,Female,85 to 89,3844
+Newfoundland and Labrador,Female,90 to 94,1812
+Newfoundland and Labrador,Female,95 to 99,535
+Newfoundland and Labrador,Female,100 and over,103
+Prince Edward Island,Male,0 to 4,3859
+Prince Edward Island,Male,5 to 9,4161
+Prince Edward Island,Male,10 to 14,4433
+Prince Edward Island,Male,15 to 19,4715
+Prince Edward Island,Male,20 to 24,6028
+Prince Edward Island,Male,25 to 29,5171
+Prince Edward Island,Male,30 to 34,4367
+Prince Edward Island,Male,35 to 39,4420
+Prince Edward Island,Male,40 to 44,4596
+Prince Edward Island,Male,45 to 49,5098
+Prince Edward Island,Male,50 to 54,5267
+Prince Edward Island,Male,55 to 59,5778
+Prince Edward Island,Male,60 to 64,5440
+Prince Edward Island,Male,65 to 69,4840
+Prince Edward Island,Male,70 to 74,4204
+Prince Edward Island,Male,75 to 79,2449
+Prince Edward Island,Male,80 to 84,1491
+Prince Edward Island,Male,85 to 89,843
+Prince Edward Island,Male,90 to 94,308
+Prince Edward Island,Male,95 to 99,62
+Prince Edward Island,Male,100 and over,14
+Prince Edward Island,Female,0 to 4,3433
+Prince Edward Island,Female,5 to 9,4158
+Prince Edward Island,Female,10 to 14,4338
+Prince Edward Island,Female,15 to 19,4511
+Prince Edward Island,Female,20 to 24,5159
+Prince Edward Island,Female,25 to 29,4677
+Prince Edward Island,Female,30 to 34,4507
+Prince Edward Island,Female,35 to 39,4817
+Prince Edward Island,Female,40 to 44,4959
+Prince Edward Island,Female,45 to 49,5225
+Prince Edward Island,Female,50 to 54,5312
+Prince Edward Island,Female,55 to 59,6223
+Prince Edward Island,Female,60 to 64,5791
+Prince Edward Island,Female,65 to 69,5175
+Prince Edward Island,Female,70 to 74,4438
+Prince Edward Island,Female,75 to 79,2887
+Prince Edward Island,Female,80 to 84,2071
+Prince Edward Island,Female,85 to 89,1325
+Prince Edward Island,Female,90 to 94,625
+Prince Edward Island,Female,95 to 99,202
+Prince Edward Island,Female,100 and over,42
+Nova Scotia,Male,0 to 4,21884
+Nova Scotia,Male,5 to 9,23665
+Nova Scotia,Male,10 to 14,24229
+Nova Scotia,Male,15 to 19,26249
+Nova Scotia,Male,20 to 24,32044
+Nova Scotia,Male,25 to 29,31628
+Nova Scotia,Male,30 to 34,29331
+Nova Scotia,Male,35 to 39,27828
+Nova Scotia,Male,40 to 44,27134
+Nova Scotia,Male,45 to 49,29831
+Nova Scotia,Male,50 to 54,33093
+Nova Scotia,Male,55 to 59,38984
+Nova Scotia,Male,60 to 64,36551
+Nova Scotia,Male,65 to 69,31405
+Nova Scotia,Male,70 to 74,26400
+Nova Scotia,Male,75 to 79,16565
+Nova Scotia,Male,80 to 84,10405
+Nova Scotia,Male,85 to 89,5285
+Nova Scotia,Male,90 to 94,1897
+Nova Scotia,Male,95 to 99,422
+Nova Scotia,Male,100 and over,63
+Nova Scotia,Female,0 to 4,20600
+Nova Scotia,Female,5 to 9,22599
+Nova Scotia,Female,10 to 14,22926
+Nova Scotia,Female,15 to 19,25200
+Nova Scotia,Female,20 to 24,29692
+Nova Scotia,Female,25 to 29,30930
+Nova Scotia,Female,30 to 34,29884
+Nova Scotia,Female,35 to 39,29715
+Nova Scotia,Female,40 to 44,29391
+Nova Scotia,Female,45 to 49,31948
+Nova Scotia,Female,50 to 54,34511
+Nova Scotia,Female,55 to 59,40189
+Nova Scotia,Female,60 to 64,38458
+Nova Scotia,Female,65 to 69,33521
+Nova Scotia,Female,70 to 74,28608
+Nova Scotia,Female,75 to 79,19355
+Nova Scotia,Female,80 to 84,13126
+Nova Scotia,Female,85 to 89,8629
+Nova Scotia,Female,90 to 94,4334
+Nova Scotia,Female,95 to 99,1449
+Nova Scotia,Female,100 and over,285
+New Brunswick,Male,0 to 4,17287
+New Brunswick,Male,5 to 9,19532
+New Brunswick,Male,10 to 14,20294
+New Brunswick,Male,15 to 19,20732
+New Brunswick,Male,20 to 24,22725
+New Brunswick,Male,25 to 29,22537
+New Brunswick,Male,30 to 34,22114
+New Brunswick,Male,35 to 39,23054
+New Brunswick,Male,40 to 44,23910
+New Brunswick,Male,45 to 49,26070
+New Brunswick,Male,50 to 54,27959
+New Brunswick,Male,55 to 59,31473
+New Brunswick,Male,60 to 64,30278
+New Brunswick,Male,65 to 69,26344
+New Brunswick,Male,70 to 74,21659
+New Brunswick,Male,75 to 79,13821
+New Brunswick,Male,80 to 84,8313
+New Brunswick,Male,85 to 89,4523
+New Brunswick,Male,90 to 94,1514
+New Brunswick,Male,95 to 99,360
+New Brunswick,Male,100 and over,44
+New Brunswick,Female,0 to 4,16732
+New Brunswick,Female,5 to 9,18765
+New Brunswick,Female,10 to 14,19208
+New Brunswick,Female,15 to 19,20363
+New Brunswick,Female,20 to 24,20486
+New Brunswick,Female,25 to 29,21316
+New Brunswick,Female,30 to 34,21869
+New Brunswick,Female,35 to 39,23496
+New Brunswick,Female,40 to 44,24364
+New Brunswick,Female,45 to 49,26052
+New Brunswick,Female,50 to 54,27972
+New Brunswick,Female,55 to 59,31971
+New Brunswick,Female,60 to 64,31086
+New Brunswick,Female,65 to 69,27812
+New Brunswick,Female,70 to 74,22987
+New Brunswick,Female,75 to 79,15325
+New Brunswick,Female,80 to 84,10510
+New Brunswick,Female,85 to 89,7061
+New Brunswick,Female,90 to 94,3698
+New Brunswick,Female,95 to 99,1313
+New Brunswick,Female,100 and over,199
+Quebec,Male,0 to 4,222637
+Quebec,Male,5 to 9,237574
+Quebec,Male,10 to 14,225608
+Quebec,Male,15 to 19,217378
+Quebec,Male,20 to 24,260455
+Quebec,Male,25 to 29,292412
+Quebec,Male,30 to 34,274923
+Quebec,Male,35 to 39,295650
+Quebec,Male,40 to 44,288690
+Quebec,Male,45 to 49,265254
+Quebec,Male,50 to 54,285033
+Quebec,Male,55 to 59,322419
+Quebec,Male,60 to 64,303636
+Quebec,Male,65 to 69,253157
+Quebec,Male,70 to 74,206356
+Quebec,Male,75 to 79,139091
+Quebec,Male,80 to 84,84109
+Quebec,Male,85 to 89,49472
+Quebec,Male,90 to 94,18648
+Quebec,Male,95 to 99,3924
+Quebec,Male,100 and over,385
+Quebec,Female,0 to 4,212658
+Quebec,Female,5 to 9,227828
+Quebec,Female,10 to 14,217545
+Quebec,Female,15 to 19,208170
+Quebec,Female,20 to 24,242707
+Quebec,Female,25 to 29,272152
+Quebec,Female,30 to 34,264213
+Quebec,Female,35 to 39,286415
+Quebec,Female,40 to 44,279003
+Quebec,Female,45 to 49,257442
+Quebec,Female,50 to 54,280525
+Quebec,Female,55 to 59,320078
+Quebec,Female,60 to 64,306824
+Quebec,Female,65 to 69,260467
+Quebec,Female,70 to 74,220057
+Quebec,Female,75 to 79,157650
+Quebec,Female,80 to 84,108411
+Quebec,Female,85 to 89,78159
+Quebec,Female,90 to 94,40987
+Quebec,Female,95 to 99,13151
+Quebec,Female,100 and over,2230
+Ontario,Male,0 to 4,370014
+Ontario,Male,5 to 9,388871
+Ontario,Male,10 to 14,400712
+Ontario,Male,15 to 19,441464
+Ontario,Male,20 to 24,540009
+Ontario,Male,25 to 29,538840
+Ontario,Male,30 to 34,508062
+Ontario,Male,35 to 39,475890
+Ontario,Male,40 to 44,442272
+Ontario,Male,45 to 49,460978
+Ontario,Male,50 to 54,491317
+Ontario,Male,55 to 59,530529
+Ontario,Male,60 to 64,457694
+Ontario,Male,65 to 69,371541
+Ontario,Male,70 to 74,304338
+Ontario,Male,75 to 79,204118
+Ontario,Male,80 to 84,136774
+Ontario,Male,85 to 89,80882
+Ontario,Male,90 to 94,32420
+Ontario,Male,95 to 99,7000
+Ontario,Male,100 and over,589
+Ontario,Female,0 to 4,350992
+Ontario,Female,5 to 9,374128
+Ontario,Female,10 to 14,386334
+Ontario,Female,15 to 19,418530
+Ontario,Female,20 to 24,491137
+Ontario,Female,25 to 29,507400
+Ontario,Female,30 to 34,499146
+Ontario,Female,35 to 39,487887
+Ontario,Female,40 to 44,471153
+Ontario,Female,45 to 49,479388
+Ontario,Female,50 to 54,500397
+Ontario,Female,55 to 59,538288
+Ontario,Female,60 to 64,480895
+Ontario,Female,65 to 69,407626
+Ontario,Female,70 to 74,340965
+Ontario,Female,75 to 79,240552
+Ontario,Female,80 to 84,175285
+Ontario,Female,85 to 89,121418
+Ontario,Female,90 to 94,64410
+Ontario,Female,95 to 99,21628
+Ontario,Female,100 and over,2828
+Manitoba,Male,0 to 4,44046
+Manitoba,Male,5 to 9,45342
+Manitoba,Male,10 to 14,42687
+Manitoba,Male,15 to 19,45318
+Manitoba,Male,20 to 24,50586
+Manitoba,Male,25 to 29,50930
+Manitoba,Male,30 to 34,49406
+Manitoba,Male,35 to 39,46664
+Manitoba,Male,40 to 44,43082
+Manitoba,Male,45 to 49,41402
+Manitoba,Male,50 to 54,40549
+Manitoba,Male,55 to 59,45164
+Manitoba,Male,60 to 64,40616
+Manitoba,Male,65 to 69,33524
+Manitoba,Male,70 to 74,26226
+Manitoba,Male,75 to 79,17306
+Manitoba,Male,80 to 84,11226
+Manitoba,Male,85 to 89,6730
+Manitoba,Male,90 to 94,2882
+Manitoba,Male,95 to 99,675
+Manitoba,Male,100 and over,83
+Manitoba,Female,0 to 4,41761
+Manitoba,Female,5 to 9,43316
+Manitoba,Female,10 to 14,41903
+Manitoba,Female,15 to 19,42565
+Manitoba,Female,20 to 24,45359
+Manitoba,Female,25 to 29,47504
+Manitoba,Female,30 to 34,48217
+Manitoba,Female,35 to 39,46646
+Manitoba,Female,40 to 44,42460
+Manitoba,Female,45 to 49,41145
+Manitoba,Female,50 to 54,41420
+Manitoba,Female,55 to 59,45614
+Manitoba,Female,60 to 64,41179
+Manitoba,Female,65 to 69,35260
+Manitoba,Female,70 to 74,28208
+Manitoba,Female,75 to 79,19595
+Manitoba,Female,80 to 84,14269
+Manitoba,Female,85 to 89,10403
+Manitoba,Female,90 to 94,6006
+Manitoba,Female,95 to 99,2280
+Manitoba,Female,100 and over,400
+Saskatchewan,Male,0 to 4,38867
+Saskatchewan,Male,5 to 9,39799
+Saskatchewan,Male,10 to 14,37829
+Saskatchewan,Male,15 to 19,36882
+Saskatchewan,Male,20 to 24,39483
+Saskatchewan,Male,25 to 29,42040
+Saskatchewan,Male,30 to 34,44211
+Saskatchewan,Male,35 to 39,42778
+Saskatchewan,Male,40 to 44,37639
+Saskatchewan,Male,45 to 49,33932
+Saskatchewan,Male,50 to 54,34678
+Saskatchewan,Male,55 to 59,39813
+Saskatchewan,Male,60 to 64,37284
+Saskatchewan,Male,65 to 69,29678
+Saskatchewan,Male,70 to 74,21680
+Saskatchewan,Male,75 to 79,14472
+Saskatchewan,Male,80 to 84,9796
+Saskatchewan,Male,85 to 89,6252
+Saskatchewan,Male,90 to 94,2817
+Saskatchewan,Male,95 to 99,708
+Saskatchewan,Male,100 and over,87
+Saskatchewan,Female,0 to 4,37696
+Saskatchewan,Female,5 to 9,38253
+Saskatchewan,Female,10 to 14,36740
+Saskatchewan,Female,15 to 19,34738
+Saskatchewan,Female,20 to 24,35412
+Saskatchewan,Female,25 to 29,38549
+Saskatchewan,Female,30 to 34,42230
+Saskatchewan,Female,35 to 39,41496
+Saskatchewan,Female,40 to 44,36070
+Saskatchewan,Female,45 to 49,33010
+Saskatchewan,Female,50 to 54,32986
+Saskatchewan,Female,55 to 59,38639
+Saskatchewan,Female,60 to 64,36461
+Saskatchewan,Female,65 to 69,29508
+Saskatchewan,Female,70 to 74,22679
+Saskatchewan,Female,75 to 79,16578
+Saskatchewan,Female,80 to 84,12779
+Saskatchewan,Female,85 to 89,9853
+Saskatchewan,Female,90 to 94,5556
+Saskatchewan,Female,95 to 99,2100
+Saskatchewan,Female,100 and over,421
+Alberta,Male,0 to 4,138322
+Alberta,Male,5 to 9,141839
+Alberta,Male,10 to 14,137006
+Alberta,Male,15 to 19,130320
+Alberta,Male,20 to 24,143101
+Alberta,Male,25 to 29,164995
+Alberta,Male,30 to 34,180663
+Alberta,Male,35 to 39,177086
+Alberta,Male,40 to 44,156608
+Alberta,Male,45 to 49,145574
+Alberta,Male,50 to 54,135926
+Alberta,Male,55 to 59,143388
+Alberta,Male,60 to 64,129330
+Alberta,Male,65 to 69,97942
+Alberta,Male,70 to 74,71072
+Alberta,Male,75 to 79,46017
+Alberta,Male,80 to 84,29345
+Alberta,Male,85 to 89,17832
+Alberta,Male,90 to 94,6895
+Alberta,Male,95 to 99,1487
+Alberta,Male,100 and over,165
+Alberta,Female,0 to 4,133141
+Alberta,Female,5 to 9,135172
+Alberta,Female,10 to 14,131357
+Alberta,Female,15 to 19,124201
+Alberta,Female,20 to 24,132465
+Alberta,Female,25 to 29,155696
+Alberta,Female,30 to 34,174473
+Alberta,Female,35 to 39,174367
+Alberta,Female,40 to 44,153885
+Alberta,Female,45 to 49,139323
+Alberta,Female,50 to 54,131862
+Alberta,Female,55 to 59,142708
+Alberta,Female,60 to 64,128684
+Alberta,Female,65 to 69,100682
+Alberta,Female,70 to 74,76877
+Alberta,Female,75 to 79,52094
+Alberta,Female,80 to 84,37039
+Alberta,Female,85 to 89,25543
+Alberta,Female,90 to 94,13197
+Alberta,Female,95 to 99,4086
+Alberta,Female,100 and over,811
+British Columbia,Male,0 to 4,117829
+British Columbia,Male,5 to 9,124603
+British Columbia,Male,10 to 14,124757
+British Columbia,Male,15 to 19,142072
+British Columbia,Male,20 to 24,178719
+British Columbia,Male,25 to 29,185331
+British Columbia,Male,30 to 34,186678
+British Columbia,Male,35 to 39,175879
+British Columbia,Male,40 to 44,155111
+British Columbia,Male,45 to 49,161177
+British Columbia,Male,50 to 54,168776
+British Columbia,Male,55 to 59,185105
+British Columbia,Male,60 to 64,171832
+British Columbia,Male,65 to 69,147311
+British Columbia,Male,70 to 74,119328
+British Columbia,Male,75 to 79,79537
+British Columbia,Male,80 to 84,51118
+British Columbia,Male,85 to 89,31043
+British Columbia,Male,90 to 94,12211
+British Columbia,Male,95 to 99,2792
+British Columbia,Male,100 and over,373
+British Columbia,Female,0 to 4,110257
+British Columbia,Female,5 to 9,117760
+British Columbia,Female,10 to 14,120514
+British Columbia,Female,15 to 19,135689
+British Columbia,Female,20 to 24,162683
+British Columbia,Female,25 to 29,175284
+British Columbia,Female,30 to 34,181949
+British Columbia,Female,35 to 39,176831
+British Columbia,Female,40 to 44,161128
+British Columbia,Female,45 to 49,170593
+British Columbia,Female,50 to 54,177994
+British Columbia,Female,55 to 59,193823
+British Columbia,Female,60 to 64,183083
+British Columbia,Female,65 to 69,158594
+British Columbia,Female,70 to 74,128173
+British Columbia,Female,75 to 79,86971
+British Columbia,Female,80 to 84,60029
+British Columbia,Female,85 to 89,40989
+British Columbia,Female,90 to 94,21864
+British Columbia,Female,95 to 99,7579
+British Columbia,Female,100 and over,1427
+Yukon,Male,0 to 4,1208
+Yukon,Male,5 to 9,1286
+Yukon,Male,10 to 14,1112
+Yukon,Male,15 to 19,1083
+Yukon,Male,20 to 24,1254
+Yukon,Male,25 to 29,1582
+Yukon,Male,30 to 34,1692
+Yukon,Male,35 to 39,1709
+Yukon,Male,40 to 44,1396
+Yukon,Male,45 to 49,1402
+Yukon,Male,50 to 54,1421
+Yukon,Male,55 to 59,1615
+Yukon,Male,60 to 64,1562
+Yukon,Male,65 to 69,1144
+Yukon,Male,70 to 74,791
+Yukon,Male,75 to 79,425
+Yukon,Male,80 to 84,236
+Yukon,Male,85 to 89,79
+Yukon,Male,90 to 94,50
+Yukon,Male,95 to 99,11
+Yukon,Male,100 and over,0
+Yukon,Female,0 to 4,1097
+Yukon,Female,5 to 9,1137
+Yukon,Female,10 to 14,1061
+Yukon,Female,15 to 19,1001
+Yukon,Female,20 to 24,1116
+Yukon,Female,25 to 29,1399
+Yukon,Female,30 to 34,1757
+Yukon,Female,35 to 39,1723
+Yukon,Female,40 to 44,1537
+Yukon,Female,45 to 49,1479
+Yukon,Female,50 to 54,1396
+Yukon,Female,55 to 59,1660
+Yukon,Female,60 to 64,1470
+Yukon,Female,65 to 69,1054
+Yukon,Female,70 to 74,653
+Yukon,Female,75 to 79,360
+Yukon,Female,80 to 84,202
+Yukon,Female,85 to 89,137
+Yukon,Female,90 to 94,23
+Yukon,Female,95 to 99,37
+Yukon,Female,100 and over,5
+Northwest Territories,Male,0 to 4,1648
+Northwest Territories,Male,5 to 9,1505
+Northwest Territories,Male,10 to 14,1450
+Northwest Territories,Male,15 to 19,1339
+Northwest Territories,Male,20 to 24,1681
+Northwest Territories,Male,25 to 29,2018
+Northwest Territories,Male,30 to 34,1873
+Northwest Territories,Male,35 to 39,1737
+Northwest Territories,Male,40 to 44,1557
+Northwest Territories,Male,45 to 49,1504
+Northwest Territories,Male,50 to 54,1701
+Northwest Territories,Male,55 to 59,1789
+Northwest Territories,Male,60 to 64,1390
+Northwest Territories,Male,65 to 69,884
+Northwest Territories,Male,70 to 74,537
+Northwest Territories,Male,75 to 79,285
+Northwest Territories,Male,80 to 84,171
+Northwest Territories,Male,85 to 89,69
+Northwest Territories,Male,90 to 94,20
+Northwest Territories,Male,95 to 99,8
+Northwest Territories,Male,100 and over,1
+Northwest Territories,Female,0 to 4,1436
+Northwest Territories,Female,5 to 9,1565
+Northwest Territories,Female,10 to 14,1476
+Northwest Territories,Female,15 to 19,1478
+Northwest Territories,Female,20 to 24,1398
+Northwest Territories,Female,25 to 29,1768
+Northwest Territories,Female,30 to 34,1806
+Northwest Territories,Female,35 to 39,1725
+Northwest Territories,Female,40 to 44,1629
+Northwest Territories,Female,45 to 49,1551
+Northwest Territories,Female,50 to 54,1633
+Northwest Territories,Female,55 to 59,1497
+Northwest Territories,Female,60 to 64,1178
+Northwest Territories,Female,65 to 69,812
+Northwest Territories,Female,70 to 74,434
+Northwest Territories,Female,75 to 79,268
+Northwest Territories,Female,80 to 84,128
+Northwest Territories,Female,85 to 89,64
+Northwest Territories,Female,90 to 94,45
+Northwest Territories,Female,95 to 99,9
+Northwest Territories,Female,100 and over,3
+Nunavut,Male,0 to 4,2195
+Nunavut,Male,5 to 9,2175
+Nunavut,Male,10 to 14,1945
+Nunavut,Male,15 to 19,1632
+Nunavut,Male,20 to 24,1583
+Nunavut,Male,25 to 29,1618
+Nunavut,Male,30 to 34,1579
+Nunavut,Male,35 to 39,1355
+Nunavut,Male,40 to 44,1133
+Nunavut,Male,45 to 49,1137
+Nunavut,Male,50 to 54,1191
+Nunavut,Male,55 to 59,850
+Nunavut,Male,60 to 64,557
+Nunavut,Male,65 to 69,391
+Nunavut,Male,70 to 74,240
+Nunavut,Male,75 to 79,114
+Nunavut,Male,80 to 84,71
+Nunavut,Male,85 to 89,23
+Nunavut,Male,90 to 94,10
+Nunavut,Male,95 to 99,2
+Nunavut,Male,100 and over,1
+Nunavut,Female,0 to 4,2056
+Nunavut,Female,5 to 9,2108
+Nunavut,Female,10 to 14,1851
+Nunavut,Female,15 to 19,1633
+Nunavut,Female,20 to 24,1501
+Nunavut,Female,25 to 29,1614
+Nunavut,Female,30 to 34,1519
+Nunavut,Female,35 to 39,1317
+Nunavut,Female,40 to 44,1064
+Nunavut,Female,45 to 49,1062
+Nunavut,Female,50 to 54,1035
+Nunavut,Female,55 to 59,843
+Nunavut,Female,60 to 64,491
+Nunavut,Female,65 to 69,300
+Nunavut,Female,70 to 74,205
+Nunavut,Female,75 to 79,112
+Nunavut,Female,80 to 84,48
+Nunavut,Female,85 to 89,20
+Nunavut,Female,90 to 94,9
+Nunavut,Female,95 to 99,1
+Nunavut,Female,100 and over,1

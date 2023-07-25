@@ -1,0 +1,2601 @@
+Geography,Sex,Year,Age_group,Rate
+Newfoundland and Labrador,Male,2016,0 to 1,6
+Newfoundland and Labrador,Male,2017,0 to 1,4.4
+Newfoundland and Labrador,Male,2018,0 to 1,6.9
+Newfoundland and Labrador,Male,2019,0 to 1,5.6
+Newfoundland and Labrador,Male,2020,0 to 1,4.8
+Newfoundland and Labrador,Female,2016,0 to 1,2.3
+Newfoundland and Labrador,Female,2017,0 to 1,3.8
+Newfoundland and Labrador,Female,2018,0 to 1,2.6
+Newfoundland and Labrador,Female,2019,0 to 1,4.8
+Newfoundland and Labrador,Female,2020,0 to 1,5
+Prince Edward Island,Male,2016,0 to 1,5.5
+Prince Edward Island,Male,2017,0 to 1,1.4
+Prince Edward Island,Male,2018,0 to 1,1.5
+Prince Edward Island,Male,2019,0 to 1,3
+Prince Edward Island,Male,2020,0 to 1,1.5
+Prince Edward Island,Female,2016,0 to 1,9
+Prince Edward Island,Female,2017,0 to 1,4.5
+Prince Edward Island,Female,2018,0 to 1,9.7
+Prince Edward Island,Female,2019,0 to 1,4.5
+Prince Edward Island,Female,2020,0 to 1,7.3
+Nova Scotia,Male,2016,0 to 1,6.3
+Nova Scotia,Male,2017,0 to 1,3.3
+Nova Scotia,Male,2018,0 to 1,3.8
+Nova Scotia,Male,2019,0 to 1,4.9
+Nova Scotia,Male,2020,0 to 1,2.7
+Nova Scotia,Female,2016,0 to 1,3.2
+Nova Scotia,Female,2017,0 to 1,4.8
+Nova Scotia,Female,2018,0 to 1,3.3
+Nova Scotia,Female,2019,0 to 1,5.4
+Nova Scotia,Female,2020,0 to 1,4.3
+New Brunswick,Male,2016,0 to 1,2.9
+New Brunswick,Male,2017,0 to 1,4.4
+New Brunswick,Male,2018,0 to 1,3.4
+New Brunswick,Male,2019,0 to 1,5.8
+New Brunswick,Male,2020,0 to 1,5.9
+New Brunswick,Female,2016,0 to 1,7.3
+New Brunswick,Female,2017,0 to 1,1.2
+New Brunswick,Female,2018,0 to 1,3.5
+New Brunswick,Female,2019,0 to 1,2.6
+New Brunswick,Female,2020,0 to 1,3.3
+Quebec,Male,2016,0 to 1,4.2
+Quebec,Male,2017,0 to 1,4.8
+Quebec,Male,2018,0 to 1,4.4
+Quebec,Male,2019,0 to 1,5.1
+Quebec,Male,2020,0 to 1,4
+Quebec,Female,2016,0 to 1,4.4
+Quebec,Female,2017,0 to 1,3.4
+Quebec,Female,2018,0 to 1,4.1
+Quebec,Female,2019,0 to 1,3.2
+Quebec,Female,2020,0 to 1,4
+Ontario,Male,2016,0 to 1,5.2
+Ontario,Male,2017,0 to 1,4.8
+Ontario,Male,2018,0 to 1,4.9
+Ontario,Male,2019,0 to 1,4.9
+Ontario,Male,2020,0 to 1,4.7
+Ontario,Female,2016,0 to 1,4.2
+Ontario,Female,2017,0 to 1,4.6
+Ontario,Female,2018,0 to 1,4.4
+Ontario,Female,2019,0 to 1,4.3
+Ontario,Female,2020,0 to 1,3.5
+Manitoba,Male,2016,0 to 1,6.2
+Manitoba,Male,2017,0 to 1,8.2
+Manitoba,Male,2018,0 to 1,7.3
+Manitoba,Male,2019,0 to 1,5.9
+Manitoba,Male,2020,0 to 1,6.9
+Manitoba,Female,2016,0 to 1,4.9
+Manitoba,Female,2017,0 to 1,6.3
+Manitoba,Female,2018,0 to 1,6
+Manitoba,Female,2019,0 to 1,5.4
+Manitoba,Female,2020,0 to 1,5.8
+Saskatchewan,Male,2016,0 to 1,5.9
+Saskatchewan,Male,2017,0 to 1,7.5
+Saskatchewan,Male,2018,0 to 1,5.4
+Saskatchewan,Male,2019,0 to 1,6
+Saskatchewan,Male,2020,0 to 1,7.1
+Saskatchewan,Female,2016,0 to 1,5.9
+Saskatchewan,Female,2017,0 to 1,5.7
+Saskatchewan,Female,2018,0 to 1,5.2
+Saskatchewan,Female,2019,0 to 1,5.5
+Saskatchewan,Female,2020,0 to 1,5.9
+Alberta,Male,2016,0 to 1,4.5
+Alberta,Male,2017,0 to 1,5.1
+Alberta,Male,2018,0 to 1,6.2
+Alberta,Male,2019,0 to 1,5.2
+Alberta,Male,2020,0 to 1,5.4
+Alberta,Female,2016,0 to 1,4.3
+Alberta,Female,2017,0 to 1,4.7
+Alberta,Female,2018,0 to 1,5
+Alberta,Female,2019,0 to 1,3.7
+Alberta,Female,2020,0 to 1,4.8
+British Columbia,Male,2016,0 to 1,2.6
+British Columbia,Male,2017,0 to 1,3.1
+British Columbia,Male,2018,0 to 1,4.2
+British Columbia,Male,2019,0 to 1,3.7
+British Columbia,Male,2020,0 to 1,3.8
+British Columbia,Female,2016,0 to 1,4.4
+British Columbia,Female,2017,0 to 1,3
+British Columbia,Female,2018,0 to 1,3.8
+British Columbia,Female,2019,0 to 1,2.9
+British Columbia,Female,2020,0 to 1,3.3
+Northwest Territories,Male,2016,0 to 1,11.9
+Northwest Territories,Male,2017,0 to 1,6.5
+Northwest Territories,Male,2018,0 to 1,11.8
+Northwest Territories,Male,2019,0 to 1,3.4
+Northwest Territories,Male,2020,0 to 1,6.5
+Northwest Territories,Female,2016,0 to 1,0
+Northwest Territories,Female,2017,0 to 1,3.6
+Northwest Territories,Female,2018,0 to 1,7.4
+Northwest Territories,Female,2019,0 to 1,0
+Northwest Territories,Female,2020,0 to 1,11.5
+Nunavut,Male,2016,0 to 1,21.8
+Nunavut,Male,2017,0 to 1,15.3
+Nunavut,Male,2018,0 to 1,29.6
+Nunavut,Male,2019,0 to 1,15.9
+Nunavut,Male,2020,0 to 1,21.1
+Nunavut,Female,2016,0 to 1,15.6
+Nunavut,Female,2017,0 to 1,9.7
+Nunavut,Female,2018,0 to 1,19.7
+Nunavut,Female,2019,0 to 1,16.6
+Nunavut,Female,2020,0 to 1,9.6
+Newfoundland and Labrador,Male,2016,1 to 4,0.1
+Newfoundland and Labrador,Male,2017,1 to 4,0
+Newfoundland and Labrador,Male,2018,1 to 4,0.2
+Newfoundland and Labrador,Male,2019,1 to 4,0.1
+Newfoundland and Labrador,Male,2020,1 to 4,0.3
+Newfoundland and Labrador,Female,2016,1 to 4,0.1
+Newfoundland and Labrador,Female,2017,1 to 4,0.2
+Newfoundland and Labrador,Female,2018,1 to 4,0.3
+Newfoundland and Labrador,Female,2019,1 to 4,0
+Newfoundland and Labrador,Female,2020,1 to 4,0
+Prince Edward Island,Male,2016,1 to 4,0
+Prince Edward Island,Male,2017,1 to 4,0
+Prince Edward Island,Male,2018,1 to 4,0
+Prince Edward Island,Male,2019,1 to 4,0
+Prince Edward Island,Male,2020,1 to 4,0.6
+Prince Edward Island,Female,2016,1 to 4,0
+Prince Edward Island,Female,2017,1 to 4,0
+Prince Edward Island,Female,2018,1 to 4,0
+Prince Edward Island,Female,2019,1 to 4,0
+Prince Edward Island,Female,2020,1 to 4,0
+Nova Scotia,Male,2016,1 to 4,0.3
+Nova Scotia,Male,2017,1 to 4,0.2
+Nova Scotia,Male,2018,1 to 4,0.1
+Nova Scotia,Male,2019,1 to 4,0.2
+Nova Scotia,Male,2020,1 to 4,0.3
+Nova Scotia,Female,2016,1 to 4,0.1
+Nova Scotia,Female,2017,1 to 4,0.1
+Nova Scotia,Female,2018,1 to 4,0.2
+Nova Scotia,Female,2019,1 to 4,0.3
+Nova Scotia,Female,2020,1 to 4,0.2
+New Brunswick,Male,2016,1 to 4,0.1
+New Brunswick,Male,2017,1 to 4,0.1
+New Brunswick,Male,2018,1 to 4,0.1
+New Brunswick,Male,2019,1 to 4,0.2
+New Brunswick,Male,2020,1 to 4,0
+New Brunswick,Female,2016,1 to 4,0.2
+New Brunswick,Female,2017,1 to 4,0.1
+New Brunswick,Female,2018,1 to 4,0.1
+New Brunswick,Female,2019,1 to 4,0.1
+New Brunswick,Female,2020,1 to 4,0.1
+Quebec,Male,2016,1 to 4,0.2
+Quebec,Male,2017,1 to 4,0.1
+Quebec,Male,2018,1 to 4,0.1
+Quebec,Male,2019,1 to 4,0.2
+Quebec,Male,2020,1 to 4,0.1
+Quebec,Female,2016,1 to 4,0.1
+Quebec,Female,2017,1 to 4,0.1
+Quebec,Female,2018,1 to 4,0.1
+Quebec,Female,2019,1 to 4,0.1
+Quebec,Female,2020,1 to 4,0.2
+Ontario,Male,2016,1 to 4,0.2
+Ontario,Male,2017,1 to 4,0.2
+Ontario,Male,2018,1 to 4,0.2
+Ontario,Male,2019,1 to 4,0.2
+Ontario,Male,2020,1 to 4,0.2
+Ontario,Female,2016,1 to 4,0.2
+Ontario,Female,2017,1 to 4,0.1
+Ontario,Female,2018,1 to 4,0.1
+Ontario,Female,2019,1 to 4,0.1
+Ontario,Female,2020,1 to 4,0.1
+Manitoba,Male,2016,1 to 4,0.4
+Manitoba,Male,2017,1 to 4,0.3
+Manitoba,Male,2018,1 to 4,0.3
+Manitoba,Male,2019,1 to 4,0.2
+Manitoba,Male,2020,1 to 4,0.3
+Manitoba,Female,2016,1 to 4,0.2
+Manitoba,Female,2017,1 to 4,0.3
+Manitoba,Female,2018,1 to 4,0.4
+Manitoba,Female,2019,1 to 4,0.4
+Manitoba,Female,2020,1 to 4,0.2
+Saskatchewan,Male,2016,1 to 4,0.4
+Saskatchewan,Male,2017,1 to 4,0.2
+Saskatchewan,Male,2018,1 to 4,0.3
+Saskatchewan,Male,2019,1 to 4,0.4
+Saskatchewan,Male,2020,1 to 4,0.4
+Saskatchewan,Female,2016,1 to 4,0.3
+Saskatchewan,Female,2017,1 to 4,0.2
+Saskatchewan,Female,2018,1 to 4,0.5
+Saskatchewan,Female,2019,1 to 4,0.2
+Saskatchewan,Female,2020,1 to 4,0.4
+Alberta,Male,2016,1 to 4,0.2
+Alberta,Male,2017,1 to 4,0.2
+Alberta,Male,2018,1 to 4,0.2
+Alberta,Male,2019,1 to 4,0.2
+Alberta,Male,2020,1 to 4,0.1
+Alberta,Female,2016,1 to 4,0.2
+Alberta,Female,2017,1 to 4,0.2
+Alberta,Female,2018,1 to 4,0.1
+Alberta,Female,2019,1 to 4,0.1
+Alberta,Female,2020,1 to 4,0.1
+British Columbia,Male,2016,1 to 4,0.2
+British Columbia,Male,2017,1 to 4,0.2
+British Columbia,Male,2018,1 to 4,0.1
+British Columbia,Male,2019,1 to 4,0.1
+British Columbia,Male,2020,1 to 4,0.1
+British Columbia,Female,2016,1 to 4,0.2
+British Columbia,Female,2017,1 to 4,0.1
+British Columbia,Female,2018,1 to 4,0.2
+British Columbia,Female,2019,1 to 4,0.2
+British Columbia,Female,2020,1 to 4,0.1
+Northwest Territories,Male,2016,1 to 4,0.7
+Northwest Territories,Male,2017,1 to 4,0
+Northwest Territories,Male,2018,1 to 4,0
+Northwest Territories,Male,2019,1 to 4,0
+Northwest Territories,Male,2020,1 to 4,0
+Northwest Territories,Female,2016,1 to 4,0
+Northwest Territories,Female,2017,1 to 4,0
+Northwest Territories,Female,2018,1 to 4,0
+Northwest Territories,Female,2019,1 to 4,0
+Northwest Territories,Female,2020,1 to 4,0
+Nunavut,Male,2016,1 to 4,0.6
+Nunavut,Male,2017,1 to 4,0
+Nunavut,Male,2018,1 to 4,1.1
+Nunavut,Male,2019,1 to 4,1.1
+Nunavut,Male,2020,1 to 4,0.6
+Nunavut,Female,2016,1 to 4,0.6
+Nunavut,Female,2017,1 to 4,0.6
+Nunavut,Female,2018,1 to 4,1.8
+Nunavut,Female,2019,1 to 4,0.6
+Nunavut,Female,2020,1 to 4,0
+Newfoundland and Labrador,Male,2016,5 to 9,0.2
+Newfoundland and Labrador,Male,2017,5 to 9,0.1
+Newfoundland and Labrador,Male,2018,5 to 9,0.2
+Newfoundland and Labrador,Male,2019,5 to 9,0.3
+Newfoundland and Labrador,Male,2020,5 to 9,0.1
+Newfoundland and Labrador,Female,2016,5 to 9,0.3
+Newfoundland and Labrador,Female,2017,5 to 9,0.1
+Newfoundland and Labrador,Female,2018,5 to 9,0.2
+Newfoundland and Labrador,Female,2019,5 to 9,0.1
+Newfoundland and Labrador,Female,2020,5 to 9,0.1
+Prince Edward Island,Male,2016,5 to 9,0
+Prince Edward Island,Male,2017,5 to 9,0.2
+Prince Edward Island,Male,2018,5 to 9,0
+Prince Edward Island,Male,2019,5 to 9,0.2
+Prince Edward Island,Male,2020,5 to 9,0
+Prince Edward Island,Female,2016,5 to 9,0
+Prince Edward Island,Female,2017,5 to 9,0
+Prince Edward Island,Female,2018,5 to 9,0
+Prince Edward Island,Female,2019,5 to 9,0.5
+Prince Edward Island,Female,2020,5 to 9,0
+Nova Scotia,Male,2016,5 to 9,0
+Nova Scotia,Male,2017,5 to 9,0.1
+Nova Scotia,Male,2018,5 to 9,0.1
+Nova Scotia,Male,2019,5 to 9,0
+Nova Scotia,Male,2020,5 to 9,0.2
+Nova Scotia,Female,2016,5 to 9,0.1
+Nova Scotia,Female,2017,5 to 9,0
+Nova Scotia,Female,2018,5 to 9,0.1
+Nova Scotia,Female,2019,5 to 9,0.1
+Nova Scotia,Female,2020,5 to 9,0
+New Brunswick,Male,2016,5 to 9,0.1
+New Brunswick,Male,2017,5 to 9,0.1
+New Brunswick,Male,2018,5 to 9,0
+New Brunswick,Male,2019,5 to 9,0
+New Brunswick,Male,2020,5 to 9,0
+New Brunswick,Female,2016,5 to 9,0
+New Brunswick,Female,2017,5 to 9,0.2
+New Brunswick,Female,2018,5 to 9,0.2
+New Brunswick,Female,2019,5 to 9,0.1
+New Brunswick,Female,2020,5 to 9,0.2
+Quebec,Male,2016,5 to 9,0.1
+Quebec,Male,2017,5 to 9,0.1
+Quebec,Male,2018,5 to 9,0.1
+Quebec,Male,2019,5 to 9,0.1
+Quebec,Male,2020,5 to 9,0.1
+Quebec,Female,2016,5 to 9,0.1
+Quebec,Female,2017,5 to 9,0.1
+Quebec,Female,2018,5 to 9,0.1
+Quebec,Female,2019,5 to 9,0.1
+Quebec,Female,2020,5 to 9,0.1
+Ontario,Male,2016,5 to 9,0.1
+Ontario,Male,2017,5 to 9,0.1
+Ontario,Male,2018,5 to 9,0.1
+Ontario,Male,2019,5 to 9,0.1
+Ontario,Male,2020,5 to 9,0.1
+Ontario,Female,2016,5 to 9,0.1
+Ontario,Female,2017,5 to 9,0.1
+Ontario,Female,2018,5 to 9,0.1
+Ontario,Female,2019,5 to 9,0.1
+Ontario,Female,2020,5 to 9,0.1
+Manitoba,Male,2016,5 to 9,0.1
+Manitoba,Male,2017,5 to 9,0.2
+Manitoba,Male,2018,5 to 9,0.1
+Manitoba,Male,2019,5 to 9,0.1
+Manitoba,Male,2020,5 to 9,0.3
+Manitoba,Female,2016,5 to 9,0.1
+Manitoba,Female,2017,5 to 9,0.1
+Manitoba,Female,2018,5 to 9,0.1
+Manitoba,Female,2019,5 to 9,0.1
+Manitoba,Female,2020,5 to 9,0.1
+Saskatchewan,Male,2016,5 to 9,0.2
+Saskatchewan,Male,2017,5 to 9,0.2
+Saskatchewan,Male,2018,5 to 9,0.1
+Saskatchewan,Male,2019,5 to 9,0
+Saskatchewan,Male,2020,5 to 9,0.2
+Saskatchewan,Female,2016,5 to 9,0.2
+Saskatchewan,Female,2017,5 to 9,0.1
+Saskatchewan,Female,2018,5 to 9,0.1
+Saskatchewan,Female,2019,5 to 9,0.1
+Saskatchewan,Female,2020,5 to 9,0.1
+Alberta,Male,2016,5 to 9,0.1
+Alberta,Male,2017,5 to 9,0.1
+Alberta,Male,2018,5 to 9,0.1
+Alberta,Male,2019,5 to 9,0.1
+Alberta,Male,2020,5 to 9,0.1
+Alberta,Female,2016,5 to 9,0.1
+Alberta,Female,2017,5 to 9,0.1
+Alberta,Female,2018,5 to 9,0.1
+Alberta,Female,2019,5 to 9,0
+Alberta,Female,2020,5 to 9,0.1
+British Columbia,Male,2016,5 to 9,0.1
+British Columbia,Male,2017,5 to 9,0.1
+British Columbia,Male,2018,5 to 9,0.1
+British Columbia,Male,2019,5 to 9,0.1
+British Columbia,Male,2020,5 to 9,0.1
+British Columbia,Female,2016,5 to 9,0.1
+British Columbia,Female,2017,5 to 9,0.1
+British Columbia,Female,2018,5 to 9,0.1
+British Columbia,Female,2019,5 to 9,0.1
+British Columbia,Female,2020,5 to 9,0.1
+Northwest Territories,Male,2016,5 to 9,0
+Northwest Territories,Male,2017,5 to 9,0
+Northwest Territories,Male,2018,5 to 9,0
+Northwest Territories,Male,2019,5 to 9,0
+Northwest Territories,Male,2020,5 to 9,0
+Northwest Territories,Female,2016,5 to 9,0
+Northwest Territories,Female,2017,5 to 9,0
+Northwest Territories,Female,2018,5 to 9,0
+Northwest Territories,Female,2019,5 to 9,0
+Northwest Territories,Female,2020,5 to 9,0.6
+Nunavut,Male,2016,5 to 9,0
+Nunavut,Male,2017,5 to 9,0
+Nunavut,Male,2018,5 to 9,0
+Nunavut,Male,2019,5 to 9,0
+Nunavut,Male,2020,5 to 9,0.9
+Nunavut,Female,2016,5 to 9,0.5
+Nunavut,Female,2017,5 to 9,0
+Nunavut,Female,2018,5 to 9,0
+Nunavut,Female,2019,5 to 9,0
+Nunavut,Female,2020,5 to 9,0
+Newfoundland and Labrador,Male,2016,10 to 14,0.1
+Newfoundland and Labrador,Male,2017,10 to 14,0.4
+Newfoundland and Labrador,Male,2018,10 to 14,0.1
+Newfoundland and Labrador,Male,2019,10 to 14,0.2
+Newfoundland and Labrador,Male,2020,10 to 14,0.1
+Newfoundland and Labrador,Female,2016,10 to 14,0.1
+Newfoundland and Labrador,Female,2017,10 to 14,0.2
+Newfoundland and Labrador,Female,2018,10 to 14,0.1
+Newfoundland and Labrador,Female,2019,10 to 14,0.2
+Newfoundland and Labrador,Female,2020,10 to 14,0.2
+Prince Edward Island,Male,2016,10 to 14,0.3
+Prince Edward Island,Male,2017,10 to 14,0.2
+Prince Edward Island,Male,2018,10 to 14,0
+Prince Edward Island,Male,2019,10 to 14,0
+Prince Edward Island,Male,2020,10 to 14,0
+Prince Edward Island,Female,2016,10 to 14,0
+Prince Edward Island,Female,2017,10 to 14,0
+Prince Edward Island,Female,2018,10 to 14,0
+Prince Edward Island,Female,2019,10 to 14,0
+Prince Edward Island,Female,2020,10 to 14,0
+Nova Scotia,Male,2016,10 to 14,0.1
+Nova Scotia,Male,2017,10 to 14,0
+Nova Scotia,Male,2018,10 to 14,0
+Nova Scotia,Male,2019,10 to 14,0.1
+Nova Scotia,Male,2020,10 to 14,0.1
+Nova Scotia,Female,2016,10 to 14,0.1
+Nova Scotia,Female,2017,10 to 14,0.1
+Nova Scotia,Female,2018,10 to 14,0.1
+Nova Scotia,Female,2019,10 to 14,0.2
+Nova Scotia,Female,2020,10 to 14,0.2
+New Brunswick,Male,2016,10 to 14,0.2
+New Brunswick,Male,2017,10 to 14,0.1
+New Brunswick,Male,2018,10 to 14,0.2
+New Brunswick,Male,2019,10 to 14,0
+New Brunswick,Male,2020,10 to 14,0.1
+New Brunswick,Female,2016,10 to 14,0.2
+New Brunswick,Female,2017,10 to 14,0.2
+New Brunswick,Female,2018,10 to 14,0
+New Brunswick,Female,2019,10 to 14,0.1
+New Brunswick,Female,2020,10 to 14,0.2
+Quebec,Male,2016,10 to 14,0.1
+Quebec,Male,2017,10 to 14,0.1
+Quebec,Male,2018,10 to 14,0.1
+Quebec,Male,2019,10 to 14,0.1
+Quebec,Male,2020,10 to 14,0.1
+Quebec,Female,2016,10 to 14,0.1
+Quebec,Female,2017,10 to 14,0.1
+Quebec,Female,2018,10 to 14,0.1
+Quebec,Female,2019,10 to 14,0
+Quebec,Female,2020,10 to 14,0.1
+Ontario,Male,2016,10 to 14,0.1
+Ontario,Male,2017,10 to 14,0.1
+Ontario,Male,2018,10 to 14,0.1
+Ontario,Male,2019,10 to 14,0.1
+Ontario,Male,2020,10 to 14,0.1
+Ontario,Female,2016,10 to 14,0.1
+Ontario,Female,2017,10 to 14,0.1
+Ontario,Female,2018,10 to 14,0.1
+Ontario,Female,2019,10 to 14,0.1
+Ontario,Female,2020,10 to 14,0.1
+Manitoba,Male,2016,10 to 14,0.2
+Manitoba,Male,2017,10 to 14,0.3
+Manitoba,Male,2018,10 to 14,0.1
+Manitoba,Male,2019,10 to 14,0.1
+Manitoba,Male,2020,10 to 14,0.2
+Manitoba,Female,2016,10 to 14,0.3
+Manitoba,Female,2017,10 to 14,0.2
+Manitoba,Female,2018,10 to 14,0.2
+Manitoba,Female,2019,10 to 14,0.3
+Manitoba,Female,2020,10 to 14,0.1
+Saskatchewan,Male,2016,10 to 14,0.3
+Saskatchewan,Male,2017,10 to 14,0.2
+Saskatchewan,Male,2018,10 to 14,0.1
+Saskatchewan,Male,2019,10 to 14,0.2
+Saskatchewan,Male,2020,10 to 14,0.3
+Saskatchewan,Female,2016,10 to 14,0.3
+Saskatchewan,Female,2017,10 to 14,0
+Saskatchewan,Female,2018,10 to 14,0.3
+Saskatchewan,Female,2019,10 to 14,0.2
+Saskatchewan,Female,2020,10 to 14,0.2
+Alberta,Male,2016,10 to 14,0.2
+Alberta,Male,2017,10 to 14,0.1
+Alberta,Male,2018,10 to 14,0.1
+Alberta,Male,2019,10 to 14,0.1
+Alberta,Male,2020,10 to 14,0.2
+Alberta,Female,2016,10 to 14,0.1
+Alberta,Female,2017,10 to 14,0.1
+Alberta,Female,2018,10 to 14,0.1
+Alberta,Female,2019,10 to 14,0.1
+Alberta,Female,2020,10 to 14,0.1
+British Columbia,Male,2016,10 to 14,0.1
+British Columbia,Male,2017,10 to 14,0.1
+British Columbia,Male,2018,10 to 14,0.1
+British Columbia,Male,2019,10 to 14,0.1
+British Columbia,Male,2020,10 to 14,0
+British Columbia,Female,2016,10 to 14,0.1
+British Columbia,Female,2017,10 to 14,0.1
+British Columbia,Female,2018,10 to 14,0.1
+British Columbia,Female,2019,10 to 14,0.1
+British Columbia,Female,2020,10 to 14,0.1
+Northwest Territories,Male,2016,10 to 14,0
+Northwest Territories,Male,2017,10 to 14,0
+Northwest Territories,Male,2018,10 to 14,0
+Northwest Territories,Male,2019,10 to 14,0
+Northwest Territories,Male,2020,10 to 14,0
+Northwest Territories,Female,2016,10 to 14,0.7
+Northwest Territories,Female,2017,10 to 14,0
+Northwest Territories,Female,2018,10 to 14,0
+Northwest Territories,Female,2019,10 to 14,0.7
+Northwest Territories,Female,2020,10 to 14,0
+Nunavut,Male,2016,10 to 14,0
+Nunavut,Male,2017,10 to 14,0.6
+Nunavut,Male,2018,10 to 14,1.6
+Nunavut,Male,2019,10 to 14,1
+Nunavut,Male,2020,10 to 14,0
+Nunavut,Female,2016,10 to 14,0
+Nunavut,Female,2017,10 to 14,0
+Nunavut,Female,2018,10 to 14,0.6
+Nunavut,Female,2019,10 to 14,1.6
+Nunavut,Female,2020,10 to 14,0.5
+Newfoundland and Labrador,Male,2016,15 to 19,0.5
+Newfoundland and Labrador,Male,2017,15 to 19,0.3
+Newfoundland and Labrador,Male,2018,15 to 19,0.3
+Newfoundland and Labrador,Male,2019,15 to 19,0.4
+Newfoundland and Labrador,Male,2020,15 to 19,0.6
+Newfoundland and Labrador,Female,2016,15 to 19,0.4
+Newfoundland and Labrador,Female,2017,15 to 19,0.7
+Newfoundland and Labrador,Female,2018,15 to 19,0.2
+Newfoundland and Labrador,Female,2019,15 to 19,0.3
+Newfoundland and Labrador,Female,2020,15 to 19,0.2
+Prince Edward Island,Male,2016,15 to 19,0
+Prince Edward Island,Male,2017,15 to 19,0
+Prince Edward Island,Male,2018,15 to 19,0.7
+Prince Edward Island,Male,2019,15 to 19,0
+Prince Edward Island,Male,2020,15 to 19,0.2
+Prince Edward Island,Female,2016,15 to 19,0.2
+Prince Edward Island,Female,2017,15 to 19,0.2
+Prince Edward Island,Female,2018,15 to 19,0.5
+Prince Edward Island,Female,2019,15 to 19,0.2
+Prince Edward Island,Female,2020,15 to 19,0.2
+Nova Scotia,Male,2016,15 to 19,0.5
+Nova Scotia,Male,2017,15 to 19,0.4
+Nova Scotia,Male,2018,15 to 19,0.3
+Nova Scotia,Male,2019,15 to 19,0.7
+Nova Scotia,Male,2020,15 to 19,0.4
+Nova Scotia,Female,2016,15 to 19,0.4
+Nova Scotia,Female,2017,15 to 19,0.3
+Nova Scotia,Female,2018,15 to 19,0.4
+Nova Scotia,Female,2019,15 to 19,0.2
+Nova Scotia,Female,2020,15 to 19,0.4
+New Brunswick,Male,2016,15 to 19,0.7
+New Brunswick,Male,2017,15 to 19,0.3
+New Brunswick,Male,2018,15 to 19,0.9
+New Brunswick,Male,2019,15 to 19,0.8
+New Brunswick,Male,2020,15 to 19,0.6
+New Brunswick,Female,2016,15 to 19,0.3
+New Brunswick,Female,2017,15 to 19,0.4
+New Brunswick,Female,2018,15 to 19,0.2
+New Brunswick,Female,2019,15 to 19,0.3
+New Brunswick,Female,2020,15 to 19,0.2
+Quebec,Male,2016,15 to 19,0.3
+Quebec,Male,2017,15 to 19,0.4
+Quebec,Male,2018,15 to 19,0.3
+Quebec,Male,2019,15 to 19,0.3
+Quebec,Male,2020,15 to 19,0.3
+Quebec,Female,2016,15 to 19,0.1
+Quebec,Female,2017,15 to 19,0.1
+Quebec,Female,2018,15 to 19,0.2
+Quebec,Female,2019,15 to 19,0.2
+Quebec,Female,2020,15 to 19,0.1
+Ontario,Male,2016,15 to 19,0.3
+Ontario,Male,2017,15 to 19,0.4
+Ontario,Male,2018,15 to 19,0.4
+Ontario,Male,2019,15 to 19,0.4
+Ontario,Male,2020,15 to 19,0.4
+Ontario,Female,2016,15 to 19,0.2
+Ontario,Female,2017,15 to 19,0.2
+Ontario,Female,2018,15 to 19,0.2
+Ontario,Female,2019,15 to 19,0.2
+Ontario,Female,2020,15 to 19,0.2
+Manitoba,Male,2016,15 to 19,0.7
+Manitoba,Male,2017,15 to 19,0.7
+Manitoba,Male,2018,15 to 19,0.6
+Manitoba,Male,2019,15 to 19,0.8
+Manitoba,Male,2020,15 to 19,0.7
+Manitoba,Female,2016,15 to 19,0.5
+Manitoba,Female,2017,15 to 19,0.5
+Manitoba,Female,2018,15 to 19,0.4
+Manitoba,Female,2019,15 to 19,0.5
+Manitoba,Female,2020,15 to 19,0.5
+Saskatchewan,Male,2016,15 to 19,0.6
+Saskatchewan,Male,2017,15 to 19,1
+Saskatchewan,Male,2018,15 to 19,1.1
+Saskatchewan,Male,2019,15 to 19,0.9
+Saskatchewan,Male,2020,15 to 19,1.2
+Saskatchewan,Female,2016,15 to 19,0.3
+Saskatchewan,Female,2017,15 to 19,0.6
+Saskatchewan,Female,2018,15 to 19,0.5
+Saskatchewan,Female,2019,15 to 19,0.7
+Saskatchewan,Female,2020,15 to 19,0.6
+Alberta,Male,2016,15 to 19,0.6
+Alberta,Male,2017,15 to 19,0.7
+Alberta,Male,2018,15 to 19,0.6
+Alberta,Male,2019,15 to 19,0.5
+Alberta,Male,2020,15 to 19,0.6
+Alberta,Female,2016,15 to 19,0.3
+Alberta,Female,2017,15 to 19,0.3
+Alberta,Female,2018,15 to 19,0.3
+Alberta,Female,2019,15 to 19,0.2
+Alberta,Female,2020,15 to 19,0.4
+British Columbia,Male,2016,15 to 19,0.5
+British Columbia,Male,2017,15 to 19,0.5
+British Columbia,Male,2018,15 to 19,0.6
+British Columbia,Male,2019,15 to 19,0.4
+British Columbia,Male,2020,15 to 19,0.4
+British Columbia,Female,2016,15 to 19,0.3
+British Columbia,Female,2017,15 to 19,0.4
+British Columbia,Female,2018,15 to 19,0.2
+British Columbia,Female,2019,15 to 19,0.3
+British Columbia,Female,2020,15 to 19,0.3
+Northwest Territories,Male,2016,15 to 19,2
+Northwest Territories,Male,2017,15 to 19,0
+Northwest Territories,Male,2018,15 to 19,1.5
+Northwest Territories,Male,2019,15 to 19,0.7
+Northwest Territories,Male,2020,15 to 19,0
+Northwest Territories,Female,2016,15 to 19,0
+Northwest Territories,Female,2017,15 to 19,0.7
+Northwest Territories,Female,2018,15 to 19,0
+Northwest Territories,Female,2019,15 to 19,0.7
+Northwest Territories,Female,2020,15 to 19,0.7
+Nunavut,Male,2016,15 to 19,3.7
+Nunavut,Male,2017,15 to 19,3.1
+Nunavut,Male,2018,15 to 19,3.7
+Nunavut,Male,2019,15 to 19,7.4
+Nunavut,Male,2020,15 to 19,4.9
+Nunavut,Female,2016,15 to 19,1.9
+Nunavut,Female,2017,15 to 19,1.3
+Nunavut,Female,2018,15 to 19,1.9
+Nunavut,Female,2019,15 to 19,1.2
+Nunavut,Female,2020,15 to 19,0
+Newfoundland and Labrador,Male,2016,20 to 24,0.9
+Newfoundland and Labrador,Male,2017,20 to 24,0.5
+Newfoundland and Labrador,Male,2018,20 to 24,0.9
+Newfoundland and Labrador,Male,2019,20 to 24,0.4
+Newfoundland and Labrador,Male,2020,20 to 24,0.8
+Newfoundland and Labrador,Female,2016,20 to 24,0.4
+Newfoundland and Labrador,Female,2017,20 to 24,0.4
+Newfoundland and Labrador,Female,2018,20 to 24,0.1
+Newfoundland and Labrador,Female,2019,20 to 24,0.3
+Newfoundland and Labrador,Female,2020,20 to 24,0.4
+Prince Edward Island,Male,2016,20 to 24,0.4
+Prince Edward Island,Male,2017,20 to 24,0.6
+Prince Edward Island,Male,2018,20 to 24,0.6
+Prince Edward Island,Male,2019,20 to 24,0.8
+Prince Edward Island,Male,2020,20 to 24,0.4
+Prince Edward Island,Female,2016,20 to 24,0
+Prince Edward Island,Female,2017,20 to 24,0.7
+Prince Edward Island,Female,2018,20 to 24,0.4
+Prince Edward Island,Female,2019,20 to 24,0.2
+Prince Edward Island,Female,2020,20 to 24,0.4
+Nova Scotia,Male,2016,20 to 24,0.9
+Nova Scotia,Male,2017,20 to 24,0.8
+Nova Scotia,Male,2018,20 to 24,1.2
+Nova Scotia,Male,2019,20 to 24,0.8
+Nova Scotia,Male,2020,20 to 24,0.7
+Nova Scotia,Female,2016,20 to 24,0.3
+Nova Scotia,Female,2017,20 to 24,0.2
+Nova Scotia,Female,2018,20 to 24,0.3
+Nova Scotia,Female,2019,20 to 24,0.1
+Nova Scotia,Female,2020,20 to 24,0.2
+New Brunswick,Male,2016,20 to 24,1
+New Brunswick,Male,2017,20 to 24,1.2
+New Brunswick,Male,2018,20 to 24,0.6
+New Brunswick,Male,2019,20 to 24,1.1
+New Brunswick,Male,2020,20 to 24,1
+New Brunswick,Female,2016,20 to 24,0.4
+New Brunswick,Female,2017,20 to 24,0.3
+New Brunswick,Female,2018,20 to 24,0.4
+New Brunswick,Female,2019,20 to 24,0.3
+New Brunswick,Female,2020,20 to 24,0.4
+Quebec,Male,2016,20 to 24,0.5
+Quebec,Male,2017,20 to 24,0.6
+Quebec,Male,2018,20 to 24,0.6
+Quebec,Male,2019,20 to 24,0.6
+Quebec,Male,2020,20 to 24,0.6
+Quebec,Female,2016,20 to 24,0.2
+Quebec,Female,2017,20 to 24,0.2
+Quebec,Female,2018,20 to 24,0.3
+Quebec,Female,2019,20 to 24,0.2
+Quebec,Female,2020,20 to 24,0.2
+Ontario,Male,2016,20 to 24,0.6
+Ontario,Male,2017,20 to 24,0.7
+Ontario,Male,2018,20 to 24,0.7
+Ontario,Male,2019,20 to 24,0.6
+Ontario,Male,2020,20 to 24,0.7
+Ontario,Female,2016,20 to 24,0.2
+Ontario,Female,2017,20 to 24,0.3
+Ontario,Female,2018,20 to 24,0.3
+Ontario,Female,2019,20 to 24,0.3
+Ontario,Female,2020,20 to 24,0.3
+Manitoba,Male,2016,20 to 24,1.2
+Manitoba,Male,2017,20 to 24,1.1
+Manitoba,Male,2018,20 to 24,1.2
+Manitoba,Male,2019,20 to 24,1.3
+Manitoba,Male,2020,20 to 24,1.2
+Manitoba,Female,2016,20 to 24,0.6
+Manitoba,Female,2017,20 to 24,0.7
+Manitoba,Female,2018,20 to 24,0.8
+Manitoba,Female,2019,20 to 24,0.7
+Manitoba,Female,2020,20 to 24,0.9
+Saskatchewan,Male,2016,20 to 24,1.2
+Saskatchewan,Male,2017,20 to 24,1.5
+Saskatchewan,Male,2018,20 to 24,1.4
+Saskatchewan,Male,2019,20 to 24,1.2
+Saskatchewan,Male,2020,20 to 24,1.7
+Saskatchewan,Female,2016,20 to 24,0.6
+Saskatchewan,Female,2017,20 to 24,0.7
+Saskatchewan,Female,2018,20 to 24,0.5
+Saskatchewan,Female,2019,20 to 24,0.8
+Saskatchewan,Female,2020,20 to 24,1
+Alberta,Male,2016,20 to 24,1.1
+Alberta,Male,2017,20 to 24,1
+Alberta,Male,2018,20 to 24,1.1
+Alberta,Male,2019,20 to 24,0.9
+Alberta,Male,2020,20 to 24,1.1
+Alberta,Female,2016,20 to 24,0.5
+Alberta,Female,2017,20 to 24,0.5
+Alberta,Female,2018,20 to 24,0.6
+Alberta,Female,2019,20 to 24,0.5
+Alberta,Female,2020,20 to 24,0.6
+British Columbia,Male,2016,20 to 24,0.9
+British Columbia,Male,2017,20 to 24,1
+British Columbia,Male,2018,20 to 24,1.1
+British Columbia,Male,2019,20 to 24,0.9
+British Columbia,Male,2020,20 to 24,1.1
+British Columbia,Female,2016,20 to 24,0.4
+British Columbia,Female,2017,20 to 24,0.4
+British Columbia,Female,2018,20 to 24,0.5
+British Columbia,Female,2019,20 to 24,0.3
+British Columbia,Female,2020,20 to 24,0.4
+Northwest Territories,Male,2016,20 to 24,1.7
+Northwest Territories,Male,2017,20 to 24,1.1
+Northwest Territories,Male,2018,20 to 24,0.6
+Northwest Territories,Male,2019,20 to 24,1.8
+Northwest Territories,Male,2020,20 to 24,1.2
+Northwest Territories,Female,2016,20 to 24,2.6
+Northwest Territories,Female,2017,20 to 24,0.7
+Northwest Territories,Female,2018,20 to 24,0.7
+Northwest Territories,Female,2019,20 to 24,0.7
+Northwest Territories,Female,2020,20 to 24,2
+Nunavut,Male,2016,20 to 24,5.7
+Nunavut,Male,2017,20 to 24,7
+Nunavut,Male,2018,20 to 24,7.7
+Nunavut,Male,2019,20 to 24,3.2
+Nunavut,Male,2020,20 to 24,2.5
+Nunavut,Female,2016,20 to 24,2
+Nunavut,Female,2017,20 to 24,0.7
+Nunavut,Female,2018,20 to 24,2.6
+Nunavut,Female,2019,20 to 24,1.3
+Nunavut,Female,2020,20 to 24,3.2
+Newfoundland and Labrador,Male,2016,25 to 29,1.4
+Newfoundland and Labrador,Male,2017,25 to 29,0.9
+Newfoundland and Labrador,Male,2018,25 to 29,1.1
+Newfoundland and Labrador,Male,2019,25 to 29,0.7
+Newfoundland and Labrador,Male,2020,25 to 29,1.1
+Newfoundland and Labrador,Female,2016,25 to 29,0.5
+Newfoundland and Labrador,Female,2017,25 to 29,0.4
+Newfoundland and Labrador,Female,2018,25 to 29,0.6
+Newfoundland and Labrador,Female,2019,25 to 29,0.6
+Newfoundland and Labrador,Female,2020,25 to 29,0.8
+Prince Edward Island,Male,2016,25 to 29,1
+Prince Edward Island,Male,2017,25 to 29,0.5
+Prince Edward Island,Male,2018,25 to 29,0.4
+Prince Edward Island,Male,2019,25 to 29,0.8
+Prince Edward Island,Male,2020,25 to 29,0.7
+Prince Edward Island,Female,2016,25 to 29,0
+Prince Edward Island,Female,2017,25 to 29,0
+Prince Edward Island,Female,2018,25 to 29,0.5
+Prince Edward Island,Female,2019,25 to 29,0.2
+Prince Edward Island,Female,2020,25 to 29,0.4
+Nova Scotia,Male,2016,25 to 29,1.2
+Nova Scotia,Male,2017,25 to 29,0.8
+Nova Scotia,Male,2018,25 to 29,0.7
+Nova Scotia,Male,2019,25 to 29,1.2
+Nova Scotia,Male,2020,25 to 29,0.9
+Nova Scotia,Female,2016,25 to 29,0.4
+Nova Scotia,Female,2017,25 to 29,0.4
+Nova Scotia,Female,2018,25 to 29,0.6
+Nova Scotia,Female,2019,25 to 29,0.3
+Nova Scotia,Female,2020,25 to 29,0.3
+New Brunswick,Male,2016,25 to 29,1.2
+New Brunswick,Male,2017,25 to 29,1.1
+New Brunswick,Male,2018,25 to 29,1.1
+New Brunswick,Male,2019,25 to 29,1.1
+New Brunswick,Male,2020,25 to 29,1.5
+New Brunswick,Female,2016,25 to 29,0.2
+New Brunswick,Female,2017,25 to 29,0.3
+New Brunswick,Female,2018,25 to 29,0.9
+New Brunswick,Female,2019,25 to 29,0.4
+New Brunswick,Female,2020,25 to 29,0.5
+Quebec,Male,2016,25 to 29,0.5
+Quebec,Male,2017,25 to 29,0.6
+Quebec,Male,2018,25 to 29,0.6
+Quebec,Male,2019,25 to 29,0.6
+Quebec,Male,2020,25 to 29,0.7
+Quebec,Female,2016,25 to 29,0.3
+Quebec,Female,2017,25 to 29,0.3
+Quebec,Female,2018,25 to 29,0.3
+Quebec,Female,2019,25 to 29,0.2
+Quebec,Female,2020,25 to 29,0.3
+Ontario,Male,2016,25 to 29,0.7
+Ontario,Male,2017,25 to 29,0.9
+Ontario,Male,2018,25 to 29,0.9
+Ontario,Male,2019,25 to 29,0.9
+Ontario,Male,2020,25 to 29,1.1
+Ontario,Female,2016,25 to 29,0.3
+Ontario,Female,2017,25 to 29,0.4
+Ontario,Female,2018,25 to 29,0.4
+Ontario,Female,2019,25 to 29,0.4
+Ontario,Female,2020,25 to 29,0.4
+Manitoba,Male,2016,25 to 29,1.6
+Manitoba,Male,2017,25 to 29,1.2
+Manitoba,Male,2018,25 to 29,1.2
+Manitoba,Male,2019,25 to 29,1.1
+Manitoba,Male,2020,25 to 29,1.8
+Manitoba,Female,2016,25 to 29,0.5
+Manitoba,Female,2017,25 to 29,0.6
+Manitoba,Female,2018,25 to 29,0.7
+Manitoba,Female,2019,25 to 29,0.8
+Manitoba,Female,2020,25 to 29,1.1
+Saskatchewan,Male,2016,25 to 29,1.3
+Saskatchewan,Male,2017,25 to 29,1.1
+Saskatchewan,Male,2018,25 to 29,1.6
+Saskatchewan,Male,2019,25 to 29,1.6
+Saskatchewan,Male,2020,25 to 29,1.9
+Saskatchewan,Female,2016,25 to 29,0.7
+Saskatchewan,Female,2017,25 to 29,1.1
+Saskatchewan,Female,2018,25 to 29,0.7
+Saskatchewan,Female,2019,25 to 29,0.6
+Saskatchewan,Female,2020,25 to 29,1.1
+Alberta,Male,2016,25 to 29,1.2
+Alberta,Male,2017,25 to 29,1.3
+Alberta,Male,2018,25 to 29,1.5
+Alberta,Male,2019,25 to 29,1.1
+Alberta,Male,2020,25 to 29,1.7
+Alberta,Female,2016,25 to 29,0.5
+Alberta,Female,2017,25 to 29,0.6
+Alberta,Female,2018,25 to 29,0.6
+Alberta,Female,2019,25 to 29,0.5
+Alberta,Female,2020,25 to 29,0.6
+British Columbia,Male,2016,25 to 29,1.2
+British Columbia,Male,2017,25 to 29,1.5
+British Columbia,Male,2018,25 to 29,1.4
+British Columbia,Male,2019,25 to 29,1.1
+British Columbia,Male,2020,25 to 29,1.5
+British Columbia,Female,2016,25 to 29,0.4
+British Columbia,Female,2017,25 to 29,0.5
+British Columbia,Female,2018,25 to 29,0.5
+British Columbia,Female,2019,25 to 29,0.5
+British Columbia,Female,2020,25 to 29,0.5
+Northwest Territories,Male,2016,25 to 29,3
+Northwest Territories,Male,2017,25 to 29,4
+Northwest Territories,Male,2018,25 to 29,2.5
+Northwest Territories,Male,2019,25 to 29,2
+Northwest Territories,Male,2020,25 to 29,1
+Northwest Territories,Female,2016,25 to 29,1.1
+Northwest Territories,Female,2017,25 to 29,0
+Northwest Territories,Female,2018,25 to 29,1.1
+Northwest Territories,Female,2019,25 to 29,1.7
+Northwest Territories,Female,2020,25 to 29,0.6
+Nunavut,Male,2016,25 to 29,4.7
+Nunavut,Male,2017,25 to 29,2.9
+Nunavut,Male,2018,25 to 29,4.1
+Nunavut,Male,2019,25 to 29,7.4
+Nunavut,Male,2020,25 to 29,7.4
+Nunavut,Female,2016,25 to 29,3.7
+Nunavut,Female,2017,25 to 29,1.8
+Nunavut,Female,2018,25 to 29,0.6
+Nunavut,Female,2019,25 to 29,1.9
+Nunavut,Female,2020,25 to 29,1.9
+Newfoundland and Labrador,Male,2016,30 to 34,1.5
+Newfoundland and Labrador,Male,2017,30 to 34,1.4
+Newfoundland and Labrador,Male,2018,30 to 34,0.8
+Newfoundland and Labrador,Male,2019,30 to 34,1.7
+Newfoundland and Labrador,Male,2020,30 to 34,1.1
+Newfoundland and Labrador,Female,2016,30 to 34,1
+Newfoundland and Labrador,Female,2017,30 to 34,0.9
+Newfoundland and Labrador,Female,2018,30 to 34,0.6
+Newfoundland and Labrador,Female,2019,30 to 34,0.3
+Newfoundland and Labrador,Female,2020,30 to 34,0.4
+Prince Edward Island,Male,2016,30 to 34,1.5
+Prince Edward Island,Male,2017,30 to 34,0.9
+Prince Edward Island,Male,2018,30 to 34,0
+Prince Edward Island,Male,2019,30 to 34,1.4
+Prince Edward Island,Male,2020,30 to 34,0.7
+Prince Edward Island,Female,2016,30 to 34,0.5
+Prince Edward Island,Female,2017,30 to 34,0.2
+Prince Edward Island,Female,2018,30 to 34,0.2
+Prince Edward Island,Female,2019,30 to 34,0
+Prince Edward Island,Female,2020,30 to 34,0.2
+Nova Scotia,Male,2016,30 to 34,1
+Nova Scotia,Male,2017,30 to 34,1.2
+Nova Scotia,Male,2018,30 to 34,0.9
+Nova Scotia,Male,2019,30 to 34,0.8
+Nova Scotia,Male,2020,30 to 34,0.7
+Nova Scotia,Female,2016,30 to 34,0.6
+Nova Scotia,Female,2017,30 to 34,0.5
+Nova Scotia,Female,2018,30 to 34,0.6
+Nova Scotia,Female,2019,30 to 34,0.4
+Nova Scotia,Female,2020,30 to 34,0.5
+New Brunswick,Male,2016,30 to 34,1.2
+New Brunswick,Male,2017,30 to 34,0.9
+New Brunswick,Male,2018,30 to 34,1.4
+New Brunswick,Male,2019,30 to 34,1.1
+New Brunswick,Male,2020,30 to 34,1.2
+New Brunswick,Female,2016,30 to 34,0.7
+New Brunswick,Female,2017,30 to 34,0.4
+New Brunswick,Female,2018,30 to 34,0.8
+New Brunswick,Female,2019,30 to 34,0.9
+New Brunswick,Female,2020,30 to 34,0.6
+Quebec,Male,2016,30 to 34,0.6
+Quebec,Male,2017,30 to 34,0.7
+Quebec,Male,2018,30 to 34,0.7
+Quebec,Male,2019,30 to 34,0.7
+Quebec,Male,2020,30 to 34,0.7
+Quebec,Female,2016,30 to 34,0.4
+Quebec,Female,2017,30 to 34,0.3
+Quebec,Female,2018,30 to 34,0.3
+Quebec,Female,2019,30 to 34,0.3
+Quebec,Female,2020,30 to 34,0.4
+Ontario,Male,2016,30 to 34,0.9
+Ontario,Male,2017,30 to 34,1.1
+Ontario,Male,2018,30 to 34,1
+Ontario,Male,2019,30 to 34,1
+Ontario,Male,2020,30 to 34,1.3
+Ontario,Female,2016,30 to 34,0.5
+Ontario,Female,2017,30 to 34,0.4
+Ontario,Female,2018,30 to 34,0.6
+Ontario,Female,2019,30 to 34,0.5
+Ontario,Female,2020,30 to 34,0.6
+Manitoba,Male,2016,30 to 34,1.3
+Manitoba,Male,2017,30 to 34,1.2
+Manitoba,Male,2018,30 to 34,1.4
+Manitoba,Male,2019,30 to 34,1.2
+Manitoba,Male,2020,30 to 34,1.9
+Manitoba,Female,2016,30 to 34,0.6
+Manitoba,Female,2017,30 to 34,1.2
+Manitoba,Female,2018,30 to 34,0.8
+Manitoba,Female,2019,30 to 34,0.9
+Manitoba,Female,2020,30 to 34,1.1
+Saskatchewan,Male,2016,30 to 34,1.5
+Saskatchewan,Male,2017,30 to 34,1.4
+Saskatchewan,Male,2018,30 to 34,1.4
+Saskatchewan,Male,2019,30 to 34,1.8
+Saskatchewan,Male,2020,30 to 34,2.2
+Saskatchewan,Female,2016,30 to 34,0.8
+Saskatchewan,Female,2017,30 to 34,0.7
+Saskatchewan,Female,2018,30 to 34,1
+Saskatchewan,Female,2019,30 to 34,0.8
+Saskatchewan,Female,2020,30 to 34,1.1
+Alberta,Male,2016,30 to 34,1.4
+Alberta,Male,2017,30 to 34,1.6
+Alberta,Male,2018,30 to 34,1.4
+Alberta,Male,2019,30 to 34,1.2
+Alberta,Male,2020,30 to 34,1.8
+Alberta,Female,2016,30 to 34,0.5
+Alberta,Female,2017,30 to 34,0.7
+Alberta,Female,2018,30 to 34,0.6
+Alberta,Female,2019,30 to 34,0.5
+Alberta,Female,2020,30 to 34,0.7
+British Columbia,Male,2016,30 to 34,1.4
+British Columbia,Male,2017,30 to 34,1.7
+British Columbia,Male,2018,30 to 34,1.5
+British Columbia,Male,2019,30 to 34,1.4
+British Columbia,Male,2020,30 to 34,1.7
+British Columbia,Female,2016,30 to 34,0.5
+British Columbia,Female,2017,30 to 34,0.6
+British Columbia,Female,2018,30 to 34,0.6
+British Columbia,Female,2019,30 to 34,0.5
+British Columbia,Female,2020,30 to 34,0.6
+Northwest Territories,Male,2016,30 to 34,1.1
+Northwest Territories,Male,2017,30 to 34,1
+Northwest Territories,Male,2018,30 to 34,4.2
+Northwest Territories,Male,2019,30 to 34,1.6
+Northwest Territories,Male,2020,30 to 34,4.2
+Northwest Territories,Female,2016,30 to 34,1.1
+Northwest Territories,Female,2017,30 to 34,0.5
+Northwest Territories,Female,2018,30 to 34,1.1
+Northwest Territories,Female,2019,30 to 34,0
+Northwest Territories,Female,2020,30 to 34,1.1
+Nunavut,Male,2016,30 to 34,1.4
+Nunavut,Male,2017,30 to 34,3.4
+Nunavut,Male,2018,30 to 34,7.9
+Nunavut,Male,2019,30 to 34,3.8
+Nunavut,Male,2020,30 to 34,4.4
+Nunavut,Female,2016,30 to 34,2
+Nunavut,Female,2017,30 to 34,0
+Nunavut,Female,2018,30 to 34,3.3
+Nunavut,Female,2019,30 to 34,3.9
+Nunavut,Female,2020,30 to 34,3.9
+Newfoundland and Labrador,Male,2016,35 to 39,1.9
+Newfoundland and Labrador,Male,2017,35 to 39,1.5
+Newfoundland and Labrador,Male,2018,35 to 39,1.6
+Newfoundland and Labrador,Male,2019,35 to 39,1.7
+Newfoundland and Labrador,Male,2020,35 to 39,1
+Newfoundland and Labrador,Female,2016,35 to 39,1.1
+Newfoundland and Labrador,Female,2017,35 to 39,0.6
+Newfoundland and Labrador,Female,2018,35 to 39,0.7
+Newfoundland and Labrador,Female,2019,35 to 39,0.9
+Newfoundland and Labrador,Female,2020,35 to 39,1
+Prince Edward Island,Male,2016,35 to 39,0.5
+Prince Edward Island,Male,2017,35 to 39,0.5
+Prince Edward Island,Male,2018,35 to 39,0.5
+Prince Edward Island,Male,2019,35 to 39,0.9
+Prince Edward Island,Male,2020,35 to 39,0.9
+Prince Edward Island,Female,2016,35 to 39,0.2
+Prince Edward Island,Female,2017,35 to 39,0.4
+Prince Edward Island,Female,2018,35 to 39,0.8
+Prince Edward Island,Female,2019,35 to 39,0.6
+Prince Edward Island,Female,2020,35 to 39,0.4
+Nova Scotia,Male,2016,35 to 39,1.6
+Nova Scotia,Male,2017,35 to 39,2
+Nova Scotia,Male,2018,35 to 39,1.1
+Nova Scotia,Male,2019,35 to 39,1.3
+Nova Scotia,Male,2020,35 to 39,1.1
+Nova Scotia,Female,2016,35 to 39,0.8
+Nova Scotia,Female,2017,35 to 39,1.1
+Nova Scotia,Female,2018,35 to 39,0.9
+Nova Scotia,Female,2019,35 to 39,0.9
+Nova Scotia,Female,2020,35 to 39,0.9
+New Brunswick,Male,2016,35 to 39,1.4
+New Brunswick,Male,2017,35 to 39,1.4
+New Brunswick,Male,2018,35 to 39,1.1
+New Brunswick,Male,2019,35 to 39,1.5
+New Brunswick,Male,2020,35 to 39,1.4
+New Brunswick,Female,2016,35 to 39,0.8
+New Brunswick,Female,2017,35 to 39,0.7
+New Brunswick,Female,2018,35 to 39,1.2
+New Brunswick,Female,2019,35 to 39,0.5
+New Brunswick,Female,2020,35 to 39,0.9
+Quebec,Male,2016,35 to 39,0.8
+Quebec,Male,2017,35 to 39,1
+Quebec,Male,2018,35 to 39,0.8
+Quebec,Male,2019,35 to 39,0.7
+Quebec,Male,2020,35 to 39,0.8
+Quebec,Female,2016,35 to 39,0.5
+Quebec,Female,2017,35 to 39,0.5
+Quebec,Female,2018,35 to 39,0.5
+Quebec,Female,2019,35 to 39,0.4
+Quebec,Female,2020,35 to 39,0.5
+Ontario,Male,2016,35 to 39,1
+Ontario,Male,2017,35 to 39,1.2
+Ontario,Male,2018,35 to 39,1.2
+Ontario,Male,2019,35 to 39,1.2
+Ontario,Male,2020,35 to 39,1.5
+Ontario,Female,2016,35 to 39,0.6
+Ontario,Female,2017,35 to 39,0.6
+Ontario,Female,2018,35 to 39,0.6
+Ontario,Female,2019,35 to 39,0.7
+Ontario,Female,2020,35 to 39,0.7
+Manitoba,Male,2016,35 to 39,1.5
+Manitoba,Male,2017,35 to 39,1.4
+Manitoba,Male,2018,35 to 39,1.8
+Manitoba,Male,2019,35 to 39,2.2
+Manitoba,Male,2020,35 to 39,2.2
+Manitoba,Female,2016,35 to 39,1.4
+Manitoba,Female,2017,35 to 39,1
+Manitoba,Female,2018,35 to 39,1
+Manitoba,Female,2019,35 to 39,1
+Manitoba,Female,2020,35 to 39,1.1
+Saskatchewan,Male,2016,35 to 39,1.5
+Saskatchewan,Male,2017,35 to 39,1.3
+Saskatchewan,Male,2018,35 to 39,1.5
+Saskatchewan,Male,2019,35 to 39,1.9
+Saskatchewan,Male,2020,35 to 39,2.1
+Saskatchewan,Female,2016,35 to 39,1.3
+Saskatchewan,Female,2017,35 to 39,1
+Saskatchewan,Female,2018,35 to 39,1.1
+Saskatchewan,Female,2019,35 to 39,1.2
+Saskatchewan,Female,2020,35 to 39,1.3
+Alberta,Male,2016,35 to 39,1.5
+Alberta,Male,2017,35 to 39,1.7
+Alberta,Male,2018,35 to 39,1.6
+Alberta,Male,2019,35 to 39,1.5
+Alberta,Male,2020,35 to 39,2
+Alberta,Female,2016,35 to 39,0.7
+Alberta,Female,2017,35 to 39,0.7
+Alberta,Female,2018,35 to 39,0.7
+Alberta,Female,2019,35 to 39,0.7
+Alberta,Female,2020,35 to 39,0.9
+British Columbia,Male,2016,35 to 39,1.4
+British Columbia,Male,2017,35 to 39,1.8
+British Columbia,Male,2018,35 to 39,1.9
+British Columbia,Male,2019,35 to 39,1.5
+British Columbia,Male,2020,35 to 39,2
+British Columbia,Female,2016,35 to 39,0.7
+British Columbia,Female,2017,35 to 39,0.7
+British Columbia,Female,2018,35 to 39,0.9
+British Columbia,Female,2019,35 to 39,0.8
+British Columbia,Female,2020,35 to 39,0.9
+Northwest Territories,Male,2016,35 to 39,0
+Northwest Territories,Male,2017,35 to 39,2.3
+Northwest Territories,Male,2018,35 to 39,4.1
+Northwest Territories,Male,2019,35 to 39,2.3
+Northwest Territories,Male,2020,35 to 39,5.2
+Northwest Territories,Female,2016,35 to 39,0
+Northwest Territories,Female,2017,35 to 39,1.1
+Northwest Territories,Female,2018,35 to 39,1.7
+Northwest Territories,Female,2019,35 to 39,0.6
+Northwest Territories,Female,2020,35 to 39,1.8
+Nunavut,Male,2016,35 to 39,2.4
+Nunavut,Male,2017,35 to 39,3
+Nunavut,Male,2018,35 to 39,2.2
+Nunavut,Male,2019,35 to 39,2.2
+Nunavut,Male,2020,35 to 39,2.8
+Nunavut,Female,2016,35 to 39,1.6
+Nunavut,Female,2017,35 to 39,1.6
+Nunavut,Female,2018,35 to 39,1.6
+Nunavut,Female,2019,35 to 39,2.3
+Nunavut,Female,2020,35 to 39,2.2
+Newfoundland and Labrador,Male,2016,40 to 44,1.6
+Newfoundland and Labrador,Male,2017,40 to 44,2
+Newfoundland and Labrador,Male,2018,40 to 44,1.8
+Newfoundland and Labrador,Male,2019,40 to 44,1.9
+Newfoundland and Labrador,Male,2020,40 to 44,2.8
+Newfoundland and Labrador,Female,2016,40 to 44,0.9
+Newfoundland and Labrador,Female,2017,40 to 44,1.5
+Newfoundland and Labrador,Female,2018,40 to 44,1.1
+Newfoundland and Labrador,Female,2019,40 to 44,1.3
+Newfoundland and Labrador,Female,2020,40 to 44,1
+Prince Edward Island,Male,2016,40 to 44,0.9
+Prince Edward Island,Male,2017,40 to 44,1.6
+Prince Edward Island,Male,2018,40 to 44,0.9
+Prince Edward Island,Male,2019,40 to 44,1.5
+Prince Edward Island,Male,2020,40 to 44,1.9
+Prince Edward Island,Female,2016,40 to 44,1.3
+Prince Edward Island,Female,2017,40 to 44,1.3
+Prince Edward Island,Female,2018,40 to 44,0.6
+Prince Edward Island,Female,2019,40 to 44,0.4
+Prince Edward Island,Female,2020,40 to 44,0.6
+Nova Scotia,Male,2016,40 to 44,1.6
+Nova Scotia,Male,2017,40 to 44,2.1
+Nova Scotia,Male,2018,40 to 44,1.8
+Nova Scotia,Male,2019,40 to 44,1.3
+Nova Scotia,Male,2020,40 to 44,2.1
+Nova Scotia,Female,2016,40 to 44,1
+Nova Scotia,Female,2017,40 to 44,0.7
+Nova Scotia,Female,2018,40 to 44,1
+Nova Scotia,Female,2019,40 to 44,1.2
+Nova Scotia,Female,2020,40 to 44,0.8
+New Brunswick,Male,2016,40 to 44,1.7
+New Brunswick,Male,2017,40 to 44,1.5
+New Brunswick,Male,2018,40 to 44,1.7
+New Brunswick,Male,2019,40 to 44,1.8
+New Brunswick,Male,2020,40 to 44,1.9
+New Brunswick,Female,2016,40 to 44,1.2
+New Brunswick,Female,2017,40 to 44,1.2
+New Brunswick,Female,2018,40 to 44,0.8
+New Brunswick,Female,2019,40 to 44,1.3
+New Brunswick,Female,2020,40 to 44,1.1
+Quebec,Male,2016,40 to 44,1.2
+Quebec,Male,2017,40 to 44,1.1
+Quebec,Male,2018,40 to 44,1.2
+Quebec,Male,2019,40 to 44,1.1
+Quebec,Male,2020,40 to 44,1.3
+Quebec,Female,2016,40 to 44,0.7
+Quebec,Female,2017,40 to 44,0.7
+Quebec,Female,2018,40 to 44,0.7
+Quebec,Female,2019,40 to 44,0.7
+Quebec,Female,2020,40 to 44,0.8
+Ontario,Male,2016,40 to 44,1.5
+Ontario,Male,2017,40 to 44,1.4
+Ontario,Male,2018,40 to 44,1.6
+Ontario,Male,2019,40 to 44,1.6
+Ontario,Male,2020,40 to 44,1.9
+Ontario,Female,2016,40 to 44,0.9
+Ontario,Female,2017,40 to 44,0.8
+Ontario,Female,2018,40 to 44,0.9
+Ontario,Female,2019,40 to 44,0.9
+Ontario,Female,2020,40 to 44,1
+Manitoba,Male,2016,40 to 44,2.1
+Manitoba,Male,2017,40 to 44,2.1
+Manitoba,Male,2018,40 to 44,2.2
+Manitoba,Male,2019,40 to 44,2.2
+Manitoba,Male,2020,40 to 44,2.7
+Manitoba,Female,2016,40 to 44,1.6
+Manitoba,Female,2017,40 to 44,1.4
+Manitoba,Female,2018,40 to 44,1.4
+Manitoba,Female,2019,40 to 44,1.3
+Manitoba,Female,2020,40 to 44,1.6
+Saskatchewan,Male,2016,40 to 44,2
+Saskatchewan,Male,2017,40 to 44,2
+Saskatchewan,Male,2018,40 to 44,2.4
+Saskatchewan,Male,2019,40 to 44,2.1
+Saskatchewan,Male,2020,40 to 44,2.4
+Saskatchewan,Female,2016,40 to 44,1.8
+Saskatchewan,Female,2017,40 to 44,1.5
+Saskatchewan,Female,2018,40 to 44,1.3
+Saskatchewan,Female,2019,40 to 44,1.5
+Saskatchewan,Female,2020,40 to 44,1.1
+Alberta,Male,2016,40 to 44,1.6
+Alberta,Male,2017,40 to 44,1.8
+Alberta,Male,2018,40 to 44,1.6
+Alberta,Male,2019,40 to 44,1.8
+Alberta,Male,2020,40 to 44,2.4
+Alberta,Female,2016,40 to 44,1.2
+Alberta,Female,2017,40 to 44,1
+Alberta,Female,2018,40 to 44,1.1
+Alberta,Female,2019,40 to 44,1
+Alberta,Female,2020,40 to 44,1.2
+British Columbia,Male,2016,40 to 44,1.9
+British Columbia,Male,2017,40 to 44,2
+British Columbia,Male,2018,40 to 44,2.2
+British Columbia,Male,2019,40 to 44,1.7
+British Columbia,Male,2020,40 to 44,2.5
+British Columbia,Female,2016,40 to 44,0.8
+British Columbia,Female,2017,40 to 44,0.9
+British Columbia,Female,2018,40 to 44,0.9
+British Columbia,Female,2019,40 to 44,0.9
+British Columbia,Female,2020,40 to 44,1
+Northwest Territories,Male,2016,40 to 44,2
+Northwest Territories,Male,2017,40 to 44,4.8
+Northwest Territories,Male,2018,40 to 44,2.7
+Northwest Territories,Male,2019,40 to 44,1.9
+Northwest Territories,Male,2020,40 to 44,4.3
+Northwest Territories,Female,2016,40 to 44,0.6
+Northwest Territories,Female,2017,40 to 44,1.9
+Northwest Territories,Female,2018,40 to 44,2.6
+Northwest Territories,Female,2019,40 to 44,1.2
+Northwest Territories,Female,2020,40 to 44,3.5
+Nunavut,Male,2016,40 to 44,4.5
+Nunavut,Male,2017,40 to 44,3.6
+Nunavut,Male,2018,40 to 44,5.3
+Nunavut,Male,2019,40 to 44,3.5
+Nunavut,Male,2020,40 to 44,4.2
+Nunavut,Female,2016,40 to 44,1
+Nunavut,Female,2017,40 to 44,1
+Nunavut,Female,2018,40 to 44,3
+Nunavut,Female,2019,40 to 44,0
+Nunavut,Female,2020,40 to 44,4.3
+Newfoundland and Labrador,Male,2016,45 to 49,2.7
+Newfoundland and Labrador,Male,2017,45 to 49,3.2
+Newfoundland and Labrador,Male,2018,45 to 49,2.3
+Newfoundland and Labrador,Male,2019,45 to 49,2.4
+Newfoundland and Labrador,Male,2020,45 to 49,3.6
+Newfoundland and Labrador,Female,2016,45 to 49,2.1
+Newfoundland and Labrador,Female,2017,45 to 49,2.1
+Newfoundland and Labrador,Female,2018,45 to 49,2.1
+Newfoundland and Labrador,Female,2019,45 to 49,1.5
+Newfoundland and Labrador,Female,2020,45 to 49,2
+Prince Edward Island,Male,2016,45 to 49,2.7
+Prince Edward Island,Male,2017,45 to 49,2.9
+Prince Edward Island,Male,2018,45 to 49,1.6
+Prince Edward Island,Male,2019,45 to 49,2.4
+Prince Edward Island,Male,2020,45 to 49,2.2
+Prince Edward Island,Female,2016,45 to 49,1.4
+Prince Edward Island,Female,2017,45 to 49,1.4
+Prince Edward Island,Female,2018,45 to 49,0.6
+Prince Edward Island,Female,2019,45 to 49,1.3
+Prince Edward Island,Female,2020,45 to 49,1
+Nova Scotia,Male,2016,45 to 49,3.1
+Nova Scotia,Male,2017,45 to 49,2.7
+Nova Scotia,Male,2018,45 to 49,2.3
+Nova Scotia,Male,2019,45 to 49,2.4
+Nova Scotia,Male,2020,45 to 49,2.6
+Nova Scotia,Female,2016,45 to 49,1.4
+Nova Scotia,Female,2017,45 to 49,1.5
+Nova Scotia,Female,2018,45 to 49,1.7
+Nova Scotia,Female,2019,45 to 49,1.9
+Nova Scotia,Female,2020,45 to 49,1.7
+New Brunswick,Male,2016,45 to 49,2.5
+New Brunswick,Male,2017,45 to 49,2.4
+New Brunswick,Male,2018,45 to 49,2.6
+New Brunswick,Male,2019,45 to 49,2.3
+New Brunswick,Male,2020,45 to 49,2.8
+New Brunswick,Female,2016,45 to 49,1.7
+New Brunswick,Female,2017,45 to 49,1.8
+New Brunswick,Female,2018,45 to 49,1.9
+New Brunswick,Female,2019,45 to 49,1.3
+New Brunswick,Female,2020,45 to 49,1.7
+Quebec,Male,2016,45 to 49,2
+Quebec,Male,2017,45 to 49,1.8
+Quebec,Male,2018,45 to 49,1.8
+Quebec,Male,2019,45 to 49,1.8
+Quebec,Male,2020,45 to 49,2
+Quebec,Female,2016,45 to 49,1.4
+Quebec,Female,2017,45 to 49,1.3
+Quebec,Female,2018,45 to 49,1.1
+Quebec,Female,2019,45 to 49,1.2
+Quebec,Female,2020,45 to 49,1.2
+Ontario,Male,2016,45 to 49,2.1
+Ontario,Male,2017,45 to 49,2.2
+Ontario,Male,2018,45 to 49,2.3
+Ontario,Male,2019,45 to 49,2.2
+Ontario,Male,2020,45 to 49,2.4
+Ontario,Female,2016,45 to 49,1.4
+Ontario,Female,2017,45 to 49,1.3
+Ontario,Female,2018,45 to 49,1.4
+Ontario,Female,2019,45 to 49,1.3
+Ontario,Female,2020,45 to 49,1.4
+Manitoba,Male,2016,45 to 49,3
+Manitoba,Male,2017,45 to 49,2.8
+Manitoba,Male,2018,45 to 49,2.6
+Manitoba,Male,2019,45 to 49,2.9
+Manitoba,Male,2020,45 to 49,3.5
+Manitoba,Female,2016,45 to 49,2
+Manitoba,Female,2017,45 to 49,2
+Manitoba,Female,2018,45 to 49,2.1
+Manitoba,Female,2019,45 to 49,1.7
+Manitoba,Female,2020,45 to 49,2.4
+Saskatchewan,Male,2016,45 to 49,3.2
+Saskatchewan,Male,2017,45 to 49,3.5
+Saskatchewan,Male,2018,45 to 49,2.9
+Saskatchewan,Male,2019,45 to 49,2.7
+Saskatchewan,Male,2020,45 to 49,3.9
+Saskatchewan,Female,2016,45 to 49,2.1
+Saskatchewan,Female,2017,45 to 49,1.9
+Saskatchewan,Female,2018,45 to 49,2.6
+Saskatchewan,Female,2019,45 to 49,1.7
+Saskatchewan,Female,2020,45 to 49,2.4
+Alberta,Male,2016,45 to 49,2.6
+Alberta,Male,2017,45 to 49,2.4
+Alberta,Male,2018,45 to 49,2.7
+Alberta,Male,2019,45 to 49,2.5
+Alberta,Male,2020,45 to 49,3
+Alberta,Female,2016,45 to 49,1.5
+Alberta,Female,2017,45 to 49,1.7
+Alberta,Female,2018,45 to 49,1.4
+Alberta,Female,2019,45 to 49,1.6
+Alberta,Female,2020,45 to 49,1.8
+British Columbia,Male,2016,45 to 49,2.5
+British Columbia,Male,2017,45 to 49,2.9
+British Columbia,Male,2018,45 to 49,2.7
+British Columbia,Male,2019,45 to 49,2.5
+British Columbia,Male,2020,45 to 49,3.2
+British Columbia,Female,2016,45 to 49,1.4
+British Columbia,Female,2017,45 to 49,1.5
+British Columbia,Female,2018,45 to 49,1.3
+British Columbia,Female,2019,45 to 49,1.6
+British Columbia,Female,2020,45 to 49,1.5
+Northwest Territories,Male,2016,45 to 49,3.5
+Northwest Territories,Male,2017,45 to 49,2.9
+Northwest Territories,Male,2018,45 to 49,1.8
+Northwest Territories,Male,2019,45 to 49,4.7
+Northwest Territories,Male,2020,45 to 49,7
+Northwest Territories,Female,2016,45 to 49,0.6
+Northwest Territories,Female,2017,45 to 49,3.8
+Northwest Territories,Female,2018,45 to 49,3.2
+Northwest Territories,Female,2019,45 to 49,1.3
+Northwest Territories,Female,2020,45 to 49,2.7
+Nunavut,Male,2016,45 to 49,6.2
+Nunavut,Male,2017,45 to 49,3.5
+Nunavut,Male,2018,45 to 49,3.5
+Nunavut,Male,2019,45 to 49,7
+Nunavut,Male,2020,45 to 49,5.4
+Nunavut,Female,2016,45 to 49,3.7
+Nunavut,Female,2017,45 to 49,4.5
+Nunavut,Female,2018,45 to 49,1.8
+Nunavut,Female,2019,45 to 49,2.8
+Nunavut,Female,2020,45 to 49,7.6
+Newfoundland and Labrador,Male,2016,50 to 54,4
+Newfoundland and Labrador,Male,2017,50 to 54,3.9
+Newfoundland and Labrador,Male,2018,50 to 54,4.5
+Newfoundland and Labrador,Male,2019,50 to 54,4.6
+Newfoundland and Labrador,Male,2020,50 to 54,5.6
+Newfoundland and Labrador,Female,2016,50 to 54,3.3
+Newfoundland and Labrador,Female,2017,50 to 54,2.4
+Newfoundland and Labrador,Female,2018,50 to 54,2.7
+Newfoundland and Labrador,Female,2019,50 to 54,2.5
+Newfoundland and Labrador,Female,2020,50 to 54,3.1
+Prince Edward Island,Male,2016,50 to 54,4.7
+Prince Edward Island,Male,2017,50 to 54,4
+Prince Edward Island,Male,2018,50 to 54,3.6
+Prince Edward Island,Male,2019,50 to 54,4.2
+Prince Edward Island,Male,2020,50 to 54,2.9
+Prince Edward Island,Female,2016,50 to 54,2.6
+Prince Edward Island,Female,2017,50 to 54,2.8
+Prince Edward Island,Female,2018,50 to 54,1.3
+Prince Edward Island,Female,2019,50 to 54,1.7
+Prince Edward Island,Female,2020,50 to 54,2.1
+Nova Scotia,Male,2016,50 to 54,3.8
+Nova Scotia,Male,2017,50 to 54,4.7
+Nova Scotia,Male,2018,50 to 54,4.9
+Nova Scotia,Male,2019,50 to 54,3.9
+Nova Scotia,Male,2020,50 to 54,4
+Nova Scotia,Female,2016,50 to 54,2.3
+Nova Scotia,Female,2017,50 to 54,3.3
+Nova Scotia,Female,2018,50 to 54,2.4
+Nova Scotia,Female,2019,50 to 54,2.1
+Nova Scotia,Female,2020,50 to 54,2.2
+New Brunswick,Male,2016,50 to 54,4.1
+New Brunswick,Male,2017,50 to 54,3.6
+New Brunswick,Male,2018,50 to 54,4.2
+New Brunswick,Male,2019,50 to 54,3.7
+New Brunswick,Male,2020,50 to 54,3.6
+New Brunswick,Female,2016,50 to 54,2.6
+New Brunswick,Female,2017,50 to 54,2.7
+New Brunswick,Female,2018,50 to 54,3.1
+New Brunswick,Female,2019,50 to 54,2.7
+New Brunswick,Female,2020,50 to 54,2.7
+Quebec,Male,2016,50 to 54,3.3
+Quebec,Male,2017,50 to 54,3.3
+Quebec,Male,2018,50 to 54,3.1
+Quebec,Male,2019,50 to 54,3
+Quebec,Male,2020,50 to 54,2.9
+Quebec,Female,2016,50 to 54,2.2
+Quebec,Female,2017,50 to 54,2.3
+Quebec,Female,2018,50 to 54,2.1
+Quebec,Female,2019,50 to 54,2.1
+Quebec,Female,2020,50 to 54,2.1
+Ontario,Male,2016,50 to 54,3.4
+Ontario,Male,2017,50 to 54,3.4
+Ontario,Male,2018,50 to 54,3.5
+Ontario,Male,2019,50 to 54,3.4
+Ontario,Male,2020,50 to 54,3.8
+Ontario,Female,2016,50 to 54,2.3
+Ontario,Female,2017,50 to 54,2.2
+Ontario,Female,2018,50 to 54,2.2
+Ontario,Female,2019,50 to 54,2.2
+Ontario,Female,2020,50 to 54,2.2
+Manitoba,Male,2016,50 to 54,4.6
+Manitoba,Male,2017,50 to 54,4.7
+Manitoba,Male,2018,50 to 54,4.7
+Manitoba,Male,2019,50 to 54,4.4
+Manitoba,Male,2020,50 to 54,5.2
+Manitoba,Female,2016,50 to 54,3.1
+Manitoba,Female,2017,50 to 54,3
+Manitoba,Female,2018,50 to 54,3.5
+Manitoba,Female,2019,50 to 54,3.3
+Manitoba,Female,2020,50 to 54,2.9
+Saskatchewan,Male,2016,50 to 54,4.5
+Saskatchewan,Male,2017,50 to 54,4.5
+Saskatchewan,Male,2018,50 to 54,5
+Saskatchewan,Male,2019,50 to 54,4.7
+Saskatchewan,Male,2020,50 to 54,5.2
+Saskatchewan,Female,2016,50 to 54,3.2
+Saskatchewan,Female,2017,50 to 54,2.8
+Saskatchewan,Female,2018,50 to 54,2.9
+Saskatchewan,Female,2019,50 to 54,2.8
+Saskatchewan,Female,2020,50 to 54,3.2
+Alberta,Male,2016,50 to 54,3.9
+Alberta,Male,2017,50 to 54,3.8
+Alberta,Male,2018,50 to 54,4.2
+Alberta,Male,2019,50 to 54,3.6
+Alberta,Male,2020,50 to 54,4.4
+Alberta,Female,2016,50 to 54,2.9
+Alberta,Female,2017,50 to 54,2.5
+Alberta,Female,2018,50 to 54,2.3
+Alberta,Female,2019,50 to 54,2.4
+Alberta,Female,2020,50 to 54,2.8
+British Columbia,Male,2016,50 to 54,3.6
+British Columbia,Male,2017,50 to 54,4
+British Columbia,Male,2018,50 to 54,4
+British Columbia,Male,2019,50 to 54,3.7
+British Columbia,Male,2020,50 to 54,4.2
+British Columbia,Female,2016,50 to 54,2.3
+British Columbia,Female,2017,50 to 54,2.3
+British Columbia,Female,2018,50 to 54,2.1
+British Columbia,Female,2019,50 to 54,2
+British Columbia,Female,2020,50 to 54,2.1
+Northwest Territories,Male,2016,50 to 54,3.2
+Northwest Territories,Male,2017,50 to 54,3.9
+Northwest Territories,Male,2018,50 to 54,2.9
+Northwest Territories,Male,2019,50 to 54,5.3
+Northwest Territories,Male,2020,50 to 54,3
+Northwest Territories,Female,2016,50 to 54,2.3
+Northwest Territories,Female,2017,50 to 54,3.5
+Northwest Territories,Female,2018,50 to 54,4.7
+Northwest Territories,Female,2019,50 to 54,3.7
+Northwest Territories,Female,2020,50 to 54,4.9
+Nunavut,Male,2016,50 to 54,2.9
+Nunavut,Male,2017,50 to 54,3.6
+Nunavut,Male,2018,50 to 54,6
+Nunavut,Male,2019,50 to 54,7.6
+Nunavut,Male,2020,50 to 54,7.4
+Nunavut,Female,2016,50 to 54,7.5
+Nunavut,Female,2017,50 to 54,1
+Nunavut,Female,2018,50 to 54,5.9
+Nunavut,Female,2019,50 to 54,6.8
+Nunavut,Female,2020,50 to 54,4.7
+Newfoundland and Labrador,Male,2016,55 to 59,7
+Newfoundland and Labrador,Male,2017,55 to 59,6.4
+Newfoundland and Labrador,Male,2018,55 to 59,6.8
+Newfoundland and Labrador,Male,2019,55 to 59,6.5
+Newfoundland and Labrador,Male,2020,55 to 59,6.6
+Newfoundland and Labrador,Female,2016,55 to 59,4.1
+Newfoundland and Labrador,Female,2017,55 to 59,4.8
+Newfoundland and Labrador,Female,2018,55 to 59,4.1
+Newfoundland and Labrador,Female,2019,55 to 59,5
+Newfoundland and Labrador,Female,2020,55 to 59,4.4
+Prince Edward Island,Male,2016,55 to 59,4.9
+Prince Edward Island,Male,2017,55 to 59,6.9
+Prince Edward Island,Male,2018,55 to 59,4.5
+Prince Edward Island,Male,2019,55 to 59,7.3
+Prince Edward Island,Male,2020,55 to 59,5.5
+Prince Edward Island,Female,2016,55 to 59,3.5
+Prince Edward Island,Female,2017,55 to 59,3.2
+Prince Edward Island,Female,2018,55 to 59,3.6
+Prince Edward Island,Female,2019,55 to 59,3.7
+Prince Edward Island,Female,2020,55 to 59,2.7
+Nova Scotia,Male,2016,55 to 59,6.7
+Nova Scotia,Male,2017,55 to 59,6.9
+Nova Scotia,Male,2018,55 to 59,6.6
+Nova Scotia,Male,2019,55 to 59,6.1
+Nova Scotia,Male,2020,55 to 59,7.6
+Nova Scotia,Female,2016,55 to 59,4.3
+Nova Scotia,Female,2017,55 to 59,4.4
+Nova Scotia,Female,2018,55 to 59,3.9
+Nova Scotia,Female,2019,55 to 59,4.7
+Nova Scotia,Female,2020,55 to 59,4.2
+New Brunswick,Male,2016,55 to 59,6.6
+New Brunswick,Male,2017,55 to 59,6.7
+New Brunswick,Male,2018,55 to 59,6.3
+New Brunswick,Male,2019,55 to 59,5.6
+New Brunswick,Male,2020,55 to 59,5.5
+New Brunswick,Female,2016,55 to 59,4
+New Brunswick,Female,2017,55 to 59,4.8
+New Brunswick,Female,2018,55 to 59,4.3
+New Brunswick,Female,2019,55 to 59,4.3
+New Brunswick,Female,2020,55 to 59,4.7
+Quebec,Male,2016,55 to 59,5.2
+Quebec,Male,2017,55 to 59,5.2
+Quebec,Male,2018,55 to 59,5
+Quebec,Male,2019,55 to 59,4.9
+Quebec,Male,2020,55 to 59,5.1
+Quebec,Female,2016,55 to 59,3.7
+Quebec,Female,2017,55 to 59,3.8
+Quebec,Female,2018,55 to 59,3.6
+Quebec,Female,2019,55 to 59,3.3
+Quebec,Female,2020,55 to 59,3.4
+Ontario,Male,2016,55 to 59,5.7
+Ontario,Male,2017,55 to 59,5.5
+Ontario,Male,2018,55 to 59,5.4
+Ontario,Male,2019,55 to 59,5.6
+Ontario,Male,2020,55 to 59,5.8
+Ontario,Female,2016,55 to 59,3.6
+Ontario,Female,2017,55 to 59,3.6
+Ontario,Female,2018,55 to 59,3.5
+Ontario,Female,2019,55 to 59,3.3
+Ontario,Female,2020,55 to 59,3.7
+Manitoba,Male,2016,55 to 59,6.9
+Manitoba,Male,2017,55 to 59,6.7
+Manitoba,Male,2018,55 to 59,6.9
+Manitoba,Male,2019,55 to 59,7.6
+Manitoba,Male,2020,55 to 59,6.7
+Manitoba,Female,2016,55 to 59,4.3
+Manitoba,Female,2017,55 to 59,4.8
+Manitoba,Female,2018,55 to 59,4.4
+Manitoba,Female,2019,55 to 59,4.3
+Manitoba,Female,2020,55 to 59,5
+Saskatchewan,Male,2016,55 to 59,6.5
+Saskatchewan,Male,2017,55 to 59,6
+Saskatchewan,Male,2018,55 to 59,6.8
+Saskatchewan,Male,2019,55 to 59,6.2
+Saskatchewan,Male,2020,55 to 59,8.1
+Saskatchewan,Female,2016,55 to 59,3.9
+Saskatchewan,Female,2017,55 to 59,3.9
+Saskatchewan,Female,2018,55 to 59,4.6
+Saskatchewan,Female,2019,55 to 59,4.2
+Saskatchewan,Female,2020,55 to 59,4.9
+Alberta,Male,2016,55 to 59,6.1
+Alberta,Male,2017,55 to 59,6.1
+Alberta,Male,2018,55 to 59,6.2
+Alberta,Male,2019,55 to 59,5.7
+Alberta,Male,2020,55 to 59,6.7
+Alberta,Female,2016,55 to 59,3.8
+Alberta,Female,2017,55 to 59,3.7
+Alberta,Female,2018,55 to 59,3.9
+Alberta,Female,2019,55 to 59,3.7
+Alberta,Female,2020,55 to 59,3.6
+British Columbia,Male,2016,55 to 59,5.4
+British Columbia,Male,2017,55 to 59,5.7
+British Columbia,Male,2018,55 to 59,6
+British Columbia,Male,2019,55 to 59,5.4
+British Columbia,Male,2020,55 to 59,6.5
+British Columbia,Female,2016,55 to 59,3.6
+British Columbia,Female,2017,55 to 59,3.3
+British Columbia,Female,2018,55 to 59,3.2
+British Columbia,Female,2019,55 to 59,3.2
+British Columbia,Female,2020,55 to 59,3.4
+Northwest Territories,Male,2016,55 to 59,9.1
+Northwest Territories,Male,2017,55 to 59,3.5
+Northwest Territories,Male,2018,55 to 59,1.7
+Northwest Territories,Male,2019,55 to 59,6.1
+Northwest Territories,Male,2020,55 to 59,9.1
+Northwest Territories,Female,2016,55 to 59,7
+Northwest Territories,Female,2017,55 to 59,3.5
+Northwest Territories,Female,2018,55 to 59,5.5
+Northwest Territories,Female,2019,55 to 59,2.7
+Northwest Territories,Female,2020,55 to 59,7.7
+Nunavut,Male,2016,55 to 59,2.5
+Nunavut,Male,2017,55 to 59,15.2
+Nunavut,Male,2018,55 to 59,12.8
+Nunavut,Male,2019,55 to 59,10.6
+Nunavut,Male,2020,55 to 59,16.8
+Nunavut,Female,2016,55 to 59,2.9
+Nunavut,Female,2017,55 to 59,6.8
+Nunavut,Female,2018,55 to 59,3.8
+Nunavut,Female,2019,55 to 59,5.9
+Nunavut,Female,2020,55 to 59,9
+Newfoundland and Labrador,Male,2016,60 to 64,11.9
+Newfoundland and Labrador,Male,2017,60 to 64,11.1
+Newfoundland and Labrador,Male,2018,60 to 64,10.6
+Newfoundland and Labrador,Male,2019,60 to 64,10
+Newfoundland and Labrador,Male,2020,60 to 64,11.4
+Newfoundland and Labrador,Female,2016,60 to 64,6.3
+Newfoundland and Labrador,Female,2017,60 to 64,7.4
+Newfoundland and Labrador,Female,2018,60 to 64,6.8
+Newfoundland and Labrador,Female,2019,60 to 64,7.5
+Newfoundland and Labrador,Female,2020,60 to 64,7.2
+Prince Edward Island,Male,2016,60 to 64,7.6
+Prince Edward Island,Male,2017,60 to 64,9.3
+Prince Edward Island,Male,2018,60 to 64,9.1
+Prince Edward Island,Male,2019,60 to 64,9.6
+Prince Edward Island,Male,2020,60 to 64,8.4
+Prince Edward Island,Female,2016,60 to 64,4.5
+Prince Edward Island,Female,2017,60 to 64,7.9
+Prince Edward Island,Female,2018,60 to 64,5.5
+Prince Edward Island,Female,2019,60 to 64,6
+Prince Edward Island,Female,2020,60 to 64,7
+Nova Scotia,Male,2016,60 to 64,10.4
+Nova Scotia,Male,2017,60 to 64,10
+Nova Scotia,Male,2018,60 to 64,10.9
+Nova Scotia,Male,2019,60 to 64,11.1
+Nova Scotia,Male,2020,60 to 64,10.6
+Nova Scotia,Female,2016,60 to 64,6.3
+Nova Scotia,Female,2017,60 to 64,6.8
+Nova Scotia,Female,2018,60 to 64,7.3
+Nova Scotia,Female,2019,60 to 64,7.2
+Nova Scotia,Female,2020,60 to 64,6.8
+New Brunswick,Male,2016,60 to 64,9.8
+New Brunswick,Male,2017,60 to 64,8.9
+New Brunswick,Male,2018,60 to 64,10.1
+New Brunswick,Male,2019,60 to 64,9.6
+New Brunswick,Male,2020,60 to 64,9.5
+New Brunswick,Female,2016,60 to 64,7.3
+New Brunswick,Female,2017,60 to 64,6.8
+New Brunswick,Female,2018,60 to 64,6.5
+New Brunswick,Female,2019,60 to 64,6.3
+New Brunswick,Female,2020,60 to 64,6.7
+Quebec,Male,2016,60 to 64,8.4
+Quebec,Male,2017,60 to 64,8
+Quebec,Male,2018,60 to 64,8.4
+Quebec,Male,2019,60 to 64,7.8
+Quebec,Male,2020,60 to 64,8.4
+Quebec,Female,2016,60 to 64,5.9
+Quebec,Female,2017,60 to 64,6
+Quebec,Female,2018,60 to 64,5.6
+Quebec,Female,2019,60 to 64,5.2
+Quebec,Female,2020,60 to 64,5.8
+Ontario,Male,2016,60 to 64,9
+Ontario,Male,2017,60 to 64,9.1
+Ontario,Male,2018,60 to 64,8.9
+Ontario,Male,2019,60 to 64,8.7
+Ontario,Male,2020,60 to 64,9.1
+Ontario,Female,2016,60 to 64,5.5
+Ontario,Female,2017,60 to 64,5.5
+Ontario,Female,2018,60 to 64,5.4
+Ontario,Female,2019,60 to 64,5.2
+Ontario,Female,2020,60 to 64,5.5
+Manitoba,Male,2016,60 to 64,11.5
+Manitoba,Male,2017,60 to 64,10.8
+Manitoba,Male,2018,60 to 64,11.4
+Manitoba,Male,2019,60 to 64,10.3
+Manitoba,Male,2020,60 to 64,9.9
+Manitoba,Female,2016,60 to 64,7.3
+Manitoba,Female,2017,60 to 64,7.3
+Manitoba,Female,2018,60 to 64,7
+Manitoba,Female,2019,60 to 64,6.7
+Manitoba,Female,2020,60 to 64,7.3
+Saskatchewan,Male,2016,60 to 64,10.2
+Saskatchewan,Male,2017,60 to 64,9.6
+Saskatchewan,Male,2018,60 to 64,10.6
+Saskatchewan,Male,2019,60 to 64,10.1
+Saskatchewan,Male,2020,60 to 64,10.4
+Saskatchewan,Female,2016,60 to 64,6.1
+Saskatchewan,Female,2017,60 to 64,6.8
+Saskatchewan,Female,2018,60 to 64,6
+Saskatchewan,Female,2019,60 to 64,6.2
+Saskatchewan,Female,2020,60 to 64,6.6
+Alberta,Male,2016,60 to 64,9.2
+Alberta,Male,2017,60 to 64,9.1
+Alberta,Male,2018,60 to 64,8.8
+Alberta,Male,2019,60 to 64,9.1
+Alberta,Male,2020,60 to 64,9.4
+Alberta,Female,2016,60 to 64,5.5
+Alberta,Female,2017,60 to 64,5.5
+Alberta,Female,2018,60 to 64,5.3
+Alberta,Female,2019,60 to 64,5.5
+Alberta,Female,2020,60 to 64,6
+British Columbia,Male,2016,60 to 64,8.6
+British Columbia,Male,2017,60 to 64,8.8
+British Columbia,Male,2018,60 to 64,9
+British Columbia,Male,2019,60 to 64,8
+British Columbia,Male,2020,60 to 64,9.2
+British Columbia,Female,2016,60 to 64,5.2
+British Columbia,Female,2017,60 to 64,4.8
+British Columbia,Female,2018,60 to 64,5.1
+British Columbia,Female,2019,60 to 64,4.9
+British Columbia,Female,2020,60 to 64,4.7
+Northwest Territories,Male,2016,60 to 64,7.7
+Northwest Territories,Male,2017,60 to 64,12
+Northwest Territories,Male,2018,60 to 64,10.7
+Northwest Territories,Male,2019,60 to 64,13.7
+Northwest Territories,Male,2020,60 to 64,10.4
+Northwest Territories,Female,2016,60 to 64,7.7
+Northwest Territories,Female,2017,60 to 64,9.8
+Northwest Territories,Female,2018,60 to 64,6.1
+Northwest Territories,Female,2019,60 to 64,9.3
+Northwest Territories,Female,2020,60 to 64,7.6
+Nunavut,Male,2016,60 to 64,5.5
+Nunavut,Male,2017,60 to 64,12.5
+Nunavut,Male,2018,60 to 64,13.5
+Nunavut,Male,2019,60 to 64,23.3
+Nunavut,Male,2020,60 to 64,19.9
+Nunavut,Female,2016,60 to 64,24.4
+Nunavut,Female,2017,60 to 64,6.7
+Nunavut,Female,2018,60 to 64,12.8
+Nunavut,Female,2019,60 to 64,22.4
+Nunavut,Female,2020,60 to 64,9.1
+Newfoundland and Labrador,Male,2016,65 to 69,15.9
+Newfoundland and Labrador,Male,2017,65 to 69,15.4
+Newfoundland and Labrador,Male,2018,65 to 69,16.2
+Newfoundland and Labrador,Male,2019,65 to 69,17.1
+Newfoundland and Labrador,Male,2020,65 to 69,15.4
+Newfoundland and Labrador,Female,2016,65 to 69,9.8
+Newfoundland and Labrador,Female,2017,65 to 69,9.5
+Newfoundland and Labrador,Female,2018,65 to 69,10.1
+Newfoundland and Labrador,Female,2019,65 to 69,10.8
+Newfoundland and Labrador,Female,2020,65 to 69,10.8
+Prince Edward Island,Male,2016,65 to 69,13.9
+Prince Edward Island,Male,2017,65 to 69,16.2
+Prince Edward Island,Male,2018,65 to 69,14.6
+Prince Edward Island,Male,2019,65 to 69,14.3
+Prince Edward Island,Male,2020,65 to 69,15
+Prince Edward Island,Female,2016,65 to 69,9.2
+Prince Edward Island,Female,2017,65 to 69,8.3
+Prince Edward Island,Female,2018,65 to 69,9.8
+Prince Edward Island,Female,2019,65 to 69,6.4
+Prince Edward Island,Female,2020,65 to 69,8
+Nova Scotia,Male,2016,65 to 69,16.4
+Nova Scotia,Male,2017,65 to 69,16.3
+Nova Scotia,Male,2018,65 to 69,17.3
+Nova Scotia,Male,2019,65 to 69,16
+Nova Scotia,Male,2020,65 to 69,20.2
+Nova Scotia,Female,2016,65 to 69,10.3
+Nova Scotia,Female,2017,65 to 69,10.3
+Nova Scotia,Female,2018,65 to 69,10.5
+Nova Scotia,Female,2019,65 to 69,11.3
+Nova Scotia,Female,2020,65 to 69,10.5
+New Brunswick,Male,2016,65 to 69,16.1
+New Brunswick,Male,2017,65 to 69,15.7
+New Brunswick,Male,2018,65 to 69,15
+New Brunswick,Male,2019,65 to 69,17
+New Brunswick,Male,2020,65 to 69,14.6
+New Brunswick,Female,2016,65 to 69,10.5
+New Brunswick,Female,2017,65 to 69,10.1
+New Brunswick,Female,2018,65 to 69,10.5
+New Brunswick,Female,2019,65 to 69,10.6
+New Brunswick,Female,2020,65 to 69,9.2
+Quebec,Male,2016,65 to 69,13.9
+Quebec,Male,2017,65 to 69,13.1
+Quebec,Male,2018,65 to 69,13.3
+Quebec,Male,2019,65 to 69,12.4
+Quebec,Male,2020,65 to 69,13.3
+Quebec,Female,2016,65 to 69,9.1
+Quebec,Female,2017,65 to 69,9
+Quebec,Female,2018,65 to 69,9.2
+Quebec,Female,2019,65 to 69,8.4
+Quebec,Female,2020,65 to 69,8.8
+Ontario,Male,2016,65 to 69,13.4
+Ontario,Male,2017,65 to 69,13
+Ontario,Male,2018,65 to 69,13.6
+Ontario,Male,2019,65 to 69,13.5
+Ontario,Male,2020,65 to 69,13.6
+Ontario,Female,2016,65 to 69,8.5
+Ontario,Female,2017,65 to 69,8.4
+Ontario,Female,2018,65 to 69,8.4
+Ontario,Female,2019,65 to 69,8.2
+Ontario,Female,2020,65 to 69,8.4
+Manitoba,Male,2016,65 to 69,15.4
+Manitoba,Male,2017,65 to 69,15.6
+Manitoba,Male,2018,65 to 69,16.6
+Manitoba,Male,2019,65 to 69,16.3
+Manitoba,Male,2020,65 to 69,17.1
+Manitoba,Female,2016,65 to 69,11.7
+Manitoba,Female,2017,65 to 69,10.4
+Manitoba,Female,2018,65 to 69,9.5
+Manitoba,Female,2019,65 to 69,9.9
+Manitoba,Female,2020,65 to 69,9.8
+Saskatchewan,Male,2016,65 to 69,16.1
+Saskatchewan,Male,2017,65 to 69,17.1
+Saskatchewan,Male,2018,65 to 69,15.7
+Saskatchewan,Male,2019,65 to 69,13.7
+Saskatchewan,Male,2020,65 to 69,15.6
+Saskatchewan,Female,2016,65 to 69,9.8
+Saskatchewan,Female,2017,65 to 69,9.4
+Saskatchewan,Female,2018,65 to 69,10.2
+Saskatchewan,Female,2019,65 to 69,10.4
+Saskatchewan,Female,2020,65 to 69,9.9
+Alberta,Male,2016,65 to 69,13.9
+Alberta,Male,2017,65 to 69,13.9
+Alberta,Male,2018,65 to 69,13.9
+Alberta,Male,2019,65 to 69,12.9
+Alberta,Male,2020,65 to 69,14.4
+Alberta,Female,2016,65 to 69,9.5
+Alberta,Female,2017,65 to 69,8.8
+Alberta,Female,2018,65 to 69,8.6
+Alberta,Female,2019,65 to 69,8.5
+Alberta,Female,2020,65 to 69,9.2
+British Columbia,Male,2016,65 to 69,13.8
+British Columbia,Male,2017,65 to 69,13.2
+British Columbia,Male,2018,65 to 69,12.6
+British Columbia,Male,2019,65 to 69,12.7
+British Columbia,Male,2020,65 to 69,13
+British Columbia,Female,2016,65 to 69,7.8
+British Columbia,Female,2017,65 to 69,7.7
+British Columbia,Female,2018,65 to 69,7.4
+British Columbia,Female,2019,65 to 69,7.2
+British Columbia,Female,2020,65 to 69,7.1
+Northwest Territories,Male,2016,65 to 69,20.3
+Northwest Territories,Male,2017,65 to 69,17.2
+Northwest Territories,Male,2018,65 to 69,17.8
+Northwest Territories,Male,2019,65 to 69,15.8
+Northwest Territories,Male,2020,65 to 69,31.1
+Northwest Territories,Female,2016,65 to 69,11.3
+Northwest Territories,Female,2017,65 to 69,9
+Northwest Territories,Female,2018,65 to 69,14.9
+Northwest Territories,Female,2019,65 to 69,11.1
+Northwest Territories,Female,2020,65 to 69,14.6
+Nunavut,Male,2016,65 to 69,40.3
+Nunavut,Male,2017,65 to 69,18.9
+Nunavut,Male,2018,65 to 69,24.3
+Nunavut,Male,2019,65 to 69,17.9
+Nunavut,Male,2020,65 to 69,13.7
+Nunavut,Female,2016,65 to 69,22.4
+Nunavut,Female,2017,65 to 69,26.2
+Nunavut,Female,2018,65 to 69,23
+Nunavut,Female,2019,65 to 69,30
+Nunavut,Female,2020,65 to 69,10.8
+Newfoundland and Labrador,Male,2016,70 to 74,27.2
+Newfoundland and Labrador,Male,2017,70 to 74,27.4
+Newfoundland and Labrador,Male,2018,70 to 74,25.9
+Newfoundland and Labrador,Male,2019,70 to 74,26.4
+Newfoundland and Labrador,Male,2020,70 to 74,26.1
+Newfoundland and Labrador,Female,2016,70 to 74,20.3
+Newfoundland and Labrador,Female,2017,70 to 74,18
+Newfoundland and Labrador,Female,2018,70 to 74,17.3
+Newfoundland and Labrador,Female,2019,70 to 74,18.4
+Newfoundland and Labrador,Female,2020,70 to 74,17
+Prince Edward Island,Male,2016,70 to 74,23
+Prince Edward Island,Male,2017,70 to 74,19
+Prince Edward Island,Male,2018,70 to 74,26.6
+Prince Edward Island,Male,2019,70 to 74,20.7
+Prince Edward Island,Male,2020,70 to 74,24.8
+Prince Edward Island,Female,2016,70 to 74,15.4
+Prince Edward Island,Female,2017,70 to 74,18.1
+Prince Edward Island,Female,2018,70 to 74,14.5
+Prince Edward Island,Female,2019,70 to 74,12.4
+Prince Edward Island,Female,2020,70 to 74,13
+Nova Scotia,Male,2016,70 to 74,25.5
+Nova Scotia,Male,2017,70 to 74,26.6
+Nova Scotia,Male,2018,70 to 74,24.1
+Nova Scotia,Male,2019,70 to 74,26.8
+Nova Scotia,Male,2020,70 to 74,25
+Nova Scotia,Female,2016,70 to 74,17.3
+Nova Scotia,Female,2017,70 to 74,16.4
+Nova Scotia,Female,2018,70 to 74,16.6
+Nova Scotia,Female,2019,70 to 74,17.1
+Nova Scotia,Female,2020,70 to 74,16.8
+New Brunswick,Male,2016,70 to 74,24.6
+New Brunswick,Male,2017,70 to 74,27.2
+New Brunswick,Male,2018,70 to 74,24.9
+New Brunswick,Male,2019,70 to 74,25.5
+New Brunswick,Male,2020,70 to 74,24.3
+New Brunswick,Female,2016,70 to 74,15.7
+New Brunswick,Female,2017,70 to 74,15.4
+New Brunswick,Female,2018,70 to 74,16.4
+New Brunswick,Female,2019,70 to 74,16.5
+New Brunswick,Female,2020,70 to 74,16.2
+Quebec,Male,2016,70 to 74,21.1
+Quebec,Male,2017,70 to 74,20.8
+Quebec,Male,2018,70 to 74,20.4
+Quebec,Male,2019,70 to 74,21
+Quebec,Male,2020,70 to 74,20.7
+Quebec,Female,2016,70 to 74,14.4
+Quebec,Female,2017,70 to 74,14.5
+Quebec,Female,2018,70 to 74,14.6
+Quebec,Female,2019,70 to 74,14.1
+Quebec,Female,2020,70 to 74,14.4
+Ontario,Male,2016,70 to 74,20.7
+Ontario,Male,2017,70 to 74,21.2
+Ontario,Male,2018,70 to 74,20
+Ontario,Male,2019,70 to 74,20.2
+Ontario,Male,2020,70 to 74,20.8
+Ontario,Female,2016,70 to 74,14.4
+Ontario,Female,2017,70 to 74,14
+Ontario,Female,2018,70 to 74,13.8
+Ontario,Female,2019,70 to 74,12.9
+Ontario,Female,2020,70 to 74,13.2
+Manitoba,Male,2016,70 to 74,27.2
+Manitoba,Male,2017,70 to 74,26
+Manitoba,Male,2018,70 to 74,26
+Manitoba,Male,2019,70 to 74,25.1
+Manitoba,Male,2020,70 to 74,25.9
+Manitoba,Female,2016,70 to 74,17.3
+Manitoba,Female,2017,70 to 74,17.8
+Manitoba,Female,2018,70 to 74,16.1
+Manitoba,Female,2019,70 to 74,16.3
+Manitoba,Female,2020,70 to 74,17.4
+Saskatchewan,Male,2016,70 to 74,25.9
+Saskatchewan,Male,2017,70 to 74,26.6
+Saskatchewan,Male,2018,70 to 74,24.2
+Saskatchewan,Male,2019,70 to 74,23.9
+Saskatchewan,Male,2020,70 to 74,23.4
+Saskatchewan,Female,2016,70 to 74,16.5
+Saskatchewan,Female,2017,70 to 74,16
+Saskatchewan,Female,2018,70 to 74,16.1
+Saskatchewan,Female,2019,70 to 74,15.8
+Saskatchewan,Female,2020,70 to 74,17.2
+Alberta,Male,2016,70 to 74,22
+Alberta,Male,2017,70 to 74,22.9
+Alberta,Male,2018,70 to 74,22.3
+Alberta,Male,2019,70 to 74,19.8
+Alberta,Male,2020,70 to 74,21.9
+Alberta,Female,2016,70 to 74,14.4
+Alberta,Female,2017,70 to 74,14.6
+Alberta,Female,2018,70 to 74,13.3
+Alberta,Female,2019,70 to 74,14.3
+Alberta,Female,2020,70 to 74,13.8
+British Columbia,Male,2016,70 to 74,19.3
+British Columbia,Male,2017,70 to 74,20
+British Columbia,Male,2018,70 to 74,19.5
+British Columbia,Male,2019,70 to 74,18.8
+British Columbia,Male,2020,70 to 74,19.4
+British Columbia,Female,2016,70 to 74,13
+British Columbia,Female,2017,70 to 74,13.1
+British Columbia,Female,2018,70 to 74,12
+British Columbia,Female,2019,70 to 74,11.8
+British Columbia,Female,2020,70 to 74,12
+Northwest Territories,Male,2016,70 to 74,29.1
+Northwest Territories,Male,2017,70 to 74,40.6
+Northwest Territories,Male,2018,70 to 74,30.1
+Northwest Territories,Male,2019,70 to 74,29.8
+Northwest Territories,Male,2020,70 to 74,42.8
+Northwest Territories,Female,2016,70 to 74,19.8
+Northwest Territories,Female,2017,70 to 74,18.4
+Northwest Territories,Female,2018,70 to 74,27.2
+Northwest Territories,Female,2019,70 to 74,20.7
+Northwest Territories,Female,2020,70 to 74,19.1
+Nunavut,Male,2016,70 to 74,54.3
+Nunavut,Male,2017,70 to 74,60.6
+Nunavut,Male,2018,70 to 74,13.3
+Nunavut,Male,2019,70 to 74,33.3
+Nunavut,Male,2020,70 to 74,49.4
+Nunavut,Female,2016,70 to 74,55.6
+Nunavut,Female,2017,70 to 74,48.1
+Nunavut,Female,2018,70 to 74,55.8
+Nunavut,Female,2019,70 to 74,34.1
+Nunavut,Female,2020,70 to 74,27.1
+Newfoundland and Labrador,Male,2016,75 to 79,45.8
+Newfoundland and Labrador,Male,2017,75 to 79,45.3
+Newfoundland and Labrador,Male,2018,75 to 79,42.1
+Newfoundland and Labrador,Male,2019,75 to 79,40.5
+Newfoundland and Labrador,Male,2020,75 to 79,41.6
+Newfoundland and Labrador,Female,2016,75 to 79,33.7
+Newfoundland and Labrador,Female,2017,75 to 79,32.6
+Newfoundland and Labrador,Female,2018,75 to 79,32.9
+Newfoundland and Labrador,Female,2019,75 to 79,28.2
+Newfoundland and Labrador,Female,2020,75 to 79,31.6
+Prince Edward Island,Male,2016,75 to 79,36.3
+Prince Edward Island,Male,2017,75 to 79,41.2
+Prince Edward Island,Male,2018,75 to 79,45.9
+Prince Edward Island,Male,2019,75 to 79,37.6
+Prince Edward Island,Male,2020,75 to 79,39.4
+Prince Edward Island,Female,2016,75 to 79,21.1
+Prince Edward Island,Female,2017,75 to 79,27.7
+Prince Edward Island,Female,2018,75 to 79,27
+Prince Edward Island,Female,2019,75 to 79,27
+Prince Edward Island,Female,2020,75 to 79,23.7
+Nova Scotia,Male,2016,75 to 79,42.1
+Nova Scotia,Male,2017,75 to 79,42.5
+Nova Scotia,Male,2018,75 to 79,45.4
+Nova Scotia,Male,2019,75 to 79,43.5
+Nova Scotia,Male,2020,75 to 79,40.4
+Nova Scotia,Female,2016,75 to 79,28.1
+Nova Scotia,Female,2017,75 to 79,28.5
+Nova Scotia,Female,2018,75 to 79,31.7
+Nova Scotia,Female,2019,75 to 79,27.9
+Nova Scotia,Female,2020,75 to 79,29
+New Brunswick,Male,2016,75 to 79,40.2
+New Brunswick,Male,2017,75 to 79,40.5
+New Brunswick,Male,2018,75 to 79,42.6
+New Brunswick,Male,2019,75 to 79,40.2
+New Brunswick,Male,2020,75 to 79,36.5
+New Brunswick,Female,2016,75 to 79,24.3
+New Brunswick,Female,2017,75 to 79,27.6
+New Brunswick,Female,2018,75 to 79,27.6
+New Brunswick,Female,2019,75 to 79,26.8
+New Brunswick,Female,2020,75 to 79,24
+Quebec,Male,2016,75 to 79,36.3
+Quebec,Male,2017,75 to 79,35.1
+Quebec,Male,2018,75 to 79,35.2
+Quebec,Male,2019,75 to 79,33.6
+Quebec,Male,2020,75 to 79,35.6
+Quebec,Female,2016,75 to 79,25.3
+Quebec,Female,2017,75 to 79,24.9
+Quebec,Female,2018,75 to 79,24.1
+Quebec,Female,2019,75 to 79,23.3
+Quebec,Female,2020,75 to 79,24.4
+Ontario,Male,2016,75 to 79,33.6
+Ontario,Male,2017,75 to 79,33.6
+Ontario,Male,2018,75 to 79,34.3
+Ontario,Male,2019,75 to 79,32
+Ontario,Male,2020,75 to 79,34.2
+Ontario,Female,2016,75 to 79,23.1
+Ontario,Female,2017,75 to 79,22.5
+Ontario,Female,2018,75 to 79,22.6
+Ontario,Female,2019,75 to 79,21.8
+Ontario,Female,2020,75 to 79,22.9
+Manitoba,Male,2016,75 to 79,40.3
+Manitoba,Male,2017,75 to 79,40.3
+Manitoba,Male,2018,75 to 79,36.1
+Manitoba,Male,2019,75 to 79,39.5
+Manitoba,Male,2020,75 to 79,39.3
+Manitoba,Female,2016,75 to 79,28.4
+Manitoba,Female,2017,75 to 79,25.9
+Manitoba,Female,2018,75 to 79,26.6
+Manitoba,Female,2019,75 to 79,26.1
+Manitoba,Female,2020,75 to 79,29.2
+Saskatchewan,Male,2016,75 to 79,37.2
+Saskatchewan,Male,2017,75 to 79,39.7
+Saskatchewan,Male,2018,75 to 79,38.6
+Saskatchewan,Male,2019,75 to 79,36.7
+Saskatchewan,Male,2020,75 to 79,37.3
+Saskatchewan,Female,2016,75 to 79,25
+Saskatchewan,Female,2017,75 to 79,28
+Saskatchewan,Female,2018,75 to 79,26.9
+Saskatchewan,Female,2019,75 to 79,24.4
+Saskatchewan,Female,2020,75 to 79,22.7
+Alberta,Male,2016,75 to 79,37
+Alberta,Male,2017,75 to 79,35.5
+Alberta,Male,2018,75 to 79,35.2
+Alberta,Male,2019,75 to 79,34.4
+Alberta,Male,2020,75 to 79,35.6
+Alberta,Female,2016,75 to 79,24.5
+Alberta,Female,2017,75 to 79,23.6
+Alberta,Female,2018,75 to 79,24.4
+Alberta,Female,2019,75 to 79,24.2
+Alberta,Female,2020,75 to 79,24.2
+British Columbia,Male,2016,75 to 79,33.2
+British Columbia,Male,2017,75 to 79,32.9
+British Columbia,Male,2018,75 to 79,31.8
+British Columbia,Male,2019,75 to 79,31
+British Columbia,Male,2020,75 to 79,31.7
+British Columbia,Female,2016,75 to 79,22.6
+British Columbia,Female,2017,75 to 79,22.3
+British Columbia,Female,2018,75 to 79,21.5
+British Columbia,Female,2019,75 to 79,22.1
+British Columbia,Female,2020,75 to 79,21.4
+Northwest Territories,Male,2016,75 to 79,59.6
+Northwest Territories,Male,2017,75 to 79,61.3
+Northwest Territories,Male,2018,75 to 79,39
+Northwest Territories,Male,2019,75 to 79,59.6
+Northwest Territories,Male,2020,75 to 79,41.4
+Northwest Territories,Female,2016,75 to 79,69.1
+Northwest Territories,Female,2017,75 to 79,40.5
+Northwest Territories,Female,2018,75 to 79,41
+Northwest Territories,Female,2019,75 to 79,44.8
+Northwest Territories,Female,2020,75 to 79,21.3
+Nunavut,Male,2016,75 to 79,57.7
+Nunavut,Male,2017,75 to 79,74.8
+Nunavut,Male,2018,75 to 79,37
+Nunavut,Male,2019,75 to 79,52.6
+Nunavut,Male,2020,75 to 79,96.8
+Nunavut,Female,2016,75 to 79,72.9
+Nunavut,Female,2017,75 to 79,79.2
+Nunavut,Female,2018,75 to 79,61.9
+Nunavut,Female,2019,75 to 79,107.1
+Nunavut,Female,2020,75 to 79,34.2
+Newfoundland and Labrador,Male,2016,80 to 84,78
+Newfoundland and Labrador,Male,2017,80 to 84,75.6
+Newfoundland and Labrador,Male,2018,80 to 84,82.4
+Newfoundland and Labrador,Male,2019,80 to 84,84.7
+Newfoundland and Labrador,Male,2020,80 to 84,74.4
+Newfoundland and Labrador,Female,2016,80 to 84,55.4
+Newfoundland and Labrador,Female,2017,80 to 84,56.5
+Newfoundland and Labrador,Female,2018,80 to 84,62.9
+Newfoundland and Labrador,Female,2019,80 to 84,54.5
+Newfoundland and Labrador,Female,2020,80 to 84,52.5
+Prince Edward Island,Male,2016,80 to 84,65.6
+Prince Edward Island,Male,2017,80 to 84,79.9
+Prince Edward Island,Male,2018,80 to 84,82.4
+Prince Edward Island,Male,2019,80 to 84,75.8
+Prince Edward Island,Male,2020,80 to 84,61.4
+Prince Edward Island,Female,2016,80 to 84,31
+Prince Edward Island,Female,2017,80 to 84,42.1
+Prince Edward Island,Female,2018,80 to 84,48.3
+Prince Edward Island,Female,2019,80 to 84,36.2
+Prince Edward Island,Female,2020,80 to 84,49.3
+Nova Scotia,Male,2016,80 to 84,69.6
+Nova Scotia,Male,2017,80 to 84,77.4
+Nova Scotia,Male,2018,80 to 84,67.1
+Nova Scotia,Male,2019,80 to 84,71.3
+Nova Scotia,Male,2020,80 to 84,69.3
+Nova Scotia,Female,2016,80 to 84,50.1
+Nova Scotia,Female,2017,80 to 84,53.9
+Nova Scotia,Female,2018,80 to 84,50.3
+Nova Scotia,Female,2019,80 to 84,53.3
+Nova Scotia,Female,2020,80 to 84,49.3
+New Brunswick,Male,2016,80 to 84,71.3
+New Brunswick,Male,2017,80 to 84,69.5
+New Brunswick,Male,2018,80 to 84,72.7
+New Brunswick,Male,2019,80 to 84,67.5
+New Brunswick,Male,2020,80 to 84,61.7
+New Brunswick,Female,2016,80 to 84,49.9
+New Brunswick,Female,2017,80 to 84,49.4
+New Brunswick,Female,2018,80 to 84,48.3
+New Brunswick,Female,2019,80 to 84,51.6
+New Brunswick,Female,2020,80 to 84,46.3
+Quebec,Male,2016,80 to 84,62.3
+Quebec,Male,2017,80 to 84,61.6
+Quebec,Male,2018,80 to 84,62.2
+Quebec,Male,2019,80 to 84,58.4
+Quebec,Male,2020,80 to 84,63
+Quebec,Female,2016,80 to 84,43.5
+Quebec,Female,2017,80 to 84,43.2
+Quebec,Female,2018,80 to 84,45.3
+Quebec,Female,2019,80 to 84,42.3
+Quebec,Female,2020,80 to 84,45.5
+Ontario,Male,2016,80 to 84,57.7
+Ontario,Male,2017,80 to 84,59.3
+Ontario,Male,2018,80 to 84,58.4
+Ontario,Male,2019,80 to 84,56.7
+Ontario,Male,2020,80 to 84,58.7
+Ontario,Female,2016,80 to 84,41.5
+Ontario,Female,2017,80 to 84,41.3
+Ontario,Female,2018,80 to 84,41.6
+Ontario,Female,2019,80 to 84,39.7
+Ontario,Female,2020,80 to 84,40.6
+Manitoba,Male,2016,80 to 84,67.3
+Manitoba,Male,2017,80 to 84,71.6
+Manitoba,Male,2018,80 to 84,64.5
+Manitoba,Male,2019,80 to 84,66.1
+Manitoba,Male,2020,80 to 84,67.6
+Manitoba,Female,2016,80 to 84,44.2
+Manitoba,Female,2017,80 to 84,48.6
+Manitoba,Female,2018,80 to 84,46.7
+Manitoba,Female,2019,80 to 84,48.5
+Manitoba,Female,2020,80 to 84,48.3
+Saskatchewan,Male,2016,80 to 84,71.7
+Saskatchewan,Male,2017,80 to 84,68.3
+Saskatchewan,Male,2018,80 to 84,68.3
+Saskatchewan,Male,2019,80 to 84,67.3
+Saskatchewan,Male,2020,80 to 84,67.6
+Saskatchewan,Female,2016,80 to 84,44.5
+Saskatchewan,Female,2017,80 to 84,46.4
+Saskatchewan,Female,2018,80 to 84,45.8
+Saskatchewan,Female,2019,80 to 84,44.6
+Saskatchewan,Female,2020,80 to 84,45.1
+Alberta,Male,2016,80 to 84,61.2
+Alberta,Male,2017,80 to 84,60.6
+Alberta,Male,2018,80 to 84,59.5
+Alberta,Male,2019,80 to 84,58.7
+Alberta,Male,2020,80 to 84,60
+Alberta,Female,2016,80 to 84,42.2
+Alberta,Female,2017,80 to 84,40.8
+Alberta,Female,2018,80 to 84,40
+Alberta,Female,2019,80 to 84,41.1
+Alberta,Female,2020,80 to 84,43.3
+British Columbia,Male,2016,80 to 84,57.7
+British Columbia,Male,2017,80 to 84,57.5
+British Columbia,Male,2018,80 to 84,54.8
+British Columbia,Male,2019,80 to 84,54.2
+British Columbia,Male,2020,80 to 84,58.4
+British Columbia,Female,2016,80 to 84,40.1
+British Columbia,Female,2017,80 to 84,39.3
+British Columbia,Female,2018,80 to 84,38.9
+British Columbia,Female,2019,80 to 84,38.5
+British Columbia,Female,2020,80 to 84,39.1
+Northwest Territories,Male,2016,80 to 84,93.3
+Northwest Territories,Male,2017,80 to 84,76.9
+Northwest Territories,Male,2018,80 to 84,68.6
+Northwest Territories,Male,2019,80 to 84,52.6
+Northwest Territories,Male,2020,80 to 84,77.8
+Northwest Territories,Female,2016,80 to 84,122.3
+Northwest Territories,Female,2017,80 to 84,95.6
+Northwest Territories,Female,2018,80 to 84,108.3
+Northwest Territories,Female,2019,80 to 84,54.7
+Northwest Territories,Female,2020,80 to 84,97.7
+Nunavut,Male,2016,80 to 84,100
+Nunavut,Male,2017,80 to 84,111.1
+Nunavut,Male,2018,80 to 84,116.7
+Nunavut,Male,2019,80 to 84,126.8
+Nunavut,Male,2020,80 to 84,123.1
+Nunavut,Female,2016,80 to 84,100
+Nunavut,Female,2017,80 to 84,163.3
+Nunavut,Female,2018,80 to 84,177.8
+Nunavut,Female,2019,80 to 84,187.5
+Nunavut,Female,2020,80 to 84,75.5
+Newfoundland and Labrador,Male,2016,85 to 89,141.4
+Newfoundland and Labrador,Male,2017,85 to 89,148.8
+Newfoundland and Labrador,Male,2018,85 to 89,131.1
+Newfoundland and Labrador,Male,2019,85 to 89,136.4
+Newfoundland and Labrador,Male,2020,85 to 89,128.8
+Newfoundland and Labrador,Female,2016,85 to 89,99
+Newfoundland and Labrador,Female,2017,85 to 89,108.8
+Newfoundland and Labrador,Female,2018,85 to 89,116.8
+Newfoundland and Labrador,Female,2019,85 to 89,109.8
+Newfoundland and Labrador,Female,2020,85 to 89,106.4
+Prince Edward Island,Male,2016,85 to 89,124.5
+Prince Edward Island,Male,2017,85 to 89,138.9
+Prince Edward Island,Male,2018,85 to 89,132.2
+Prince Edward Island,Male,2019,85 to 89,130.5
+Prince Edward Island,Male,2020,85 to 89,115.4
+Prince Edward Island,Female,2016,85 to 89,83.4
+Prince Edward Island,Female,2017,85 to 89,79
+Prince Edward Island,Female,2018,85 to 89,82.1
+Prince Edward Island,Female,2019,85 to 89,93.6
+Prince Edward Island,Female,2020,85 to 89,86.7
+Nova Scotia,Male,2016,85 to 89,126
+Nova Scotia,Male,2017,85 to 89,126.7
+Nova Scotia,Male,2018,85 to 89,137.9
+Nova Scotia,Male,2019,85 to 89,122.2
+Nova Scotia,Male,2020,85 to 89,125.9
+Nova Scotia,Female,2016,85 to 89,91.2
+Nova Scotia,Female,2017,85 to 89,95.5
+Nova Scotia,Female,2018,85 to 89,93.2
+Nova Scotia,Female,2019,85 to 89,93.1
+Nova Scotia,Female,2020,85 to 89,95.4
+New Brunswick,Male,2016,85 to 89,131.4
+New Brunswick,Male,2017,85 to 89,124.6
+New Brunswick,Male,2018,85 to 89,116.9
+New Brunswick,Male,2019,85 to 89,125.8
+New Brunswick,Male,2020,85 to 89,119.8
+New Brunswick,Female,2016,85 to 89,85.4
+New Brunswick,Female,2017,85 to 89,90.9
+New Brunswick,Female,2018,85 to 89,89.9
+New Brunswick,Female,2019,85 to 89,82.4
+New Brunswick,Female,2020,85 to 89,79.5
+Quebec,Male,2016,85 to 89,108.3
+Quebec,Male,2017,85 to 89,110.9
+Quebec,Male,2018,85 to 89,111.3
+Quebec,Male,2019,85 to 89,105.8
+Quebec,Male,2020,85 to 89,118.2
+Quebec,Female,2016,85 to 89,79.7
+Quebec,Female,2017,85 to 89,79.2
+Quebec,Female,2018,85 to 89,84.6
+Quebec,Female,2019,85 to 89,79.2
+Quebec,Female,2020,85 to 89,88.3
+Ontario,Male,2016,85 to 89,106.2
+Ontario,Male,2017,85 to 89,107
+Ontario,Male,2018,85 to 89,106.6
+Ontario,Male,2019,85 to 89,104.3
+Ontario,Male,2020,85 to 89,106.5
+Ontario,Female,2016,85 to 89,75.6
+Ontario,Female,2017,85 to 89,76
+Ontario,Female,2018,85 to 89,77.2
+Ontario,Female,2019,85 to 89,73.8
+Ontario,Female,2020,85 to 89,76.3
+Manitoba,Male,2016,85 to 89,113.7
+Manitoba,Male,2017,85 to 89,120.2
+Manitoba,Male,2018,85 to 89,117.2
+Manitoba,Male,2019,85 to 89,109.1
+Manitoba,Male,2020,85 to 89,115
+Manitoba,Female,2016,85 to 89,81.2
+Manitoba,Female,2017,85 to 89,83.1
+Manitoba,Female,2018,85 to 89,81.6
+Manitoba,Female,2019,85 to 89,85
+Manitoba,Female,2020,85 to 89,85.1
+Saskatchewan,Male,2016,85 to 89,120.1
+Saskatchewan,Male,2017,85 to 89,109.4
+Saskatchewan,Male,2018,85 to 89,111.8
+Saskatchewan,Male,2019,85 to 89,116.1
+Saskatchewan,Male,2020,85 to 89,120.6
+Saskatchewan,Female,2016,85 to 89,79.7
+Saskatchewan,Female,2017,85 to 89,74.5
+Saskatchewan,Female,2018,85 to 89,75.3
+Saskatchewan,Female,2019,85 to 89,74.6
+Saskatchewan,Female,2020,85 to 89,79.4
+Alberta,Male,2016,85 to 89,108.2
+Alberta,Male,2017,85 to 89,108.4
+Alberta,Male,2018,85 to 89,106.5
+Alberta,Male,2019,85 to 89,105.6
+Alberta,Male,2020,85 to 89,110.5
+Alberta,Female,2016,85 to 89,76.4
+Alberta,Female,2017,85 to 89,78.8
+Alberta,Female,2018,85 to 89,78.1
+Alberta,Female,2019,85 to 89,72.8
+Alberta,Female,2020,85 to 89,78.4
+British Columbia,Male,2016,85 to 89,101.6
+British Columbia,Male,2017,85 to 89,110
+British Columbia,Male,2018,85 to 89,104.2
+British Columbia,Male,2019,85 to 89,101.6
+British Columbia,Male,2020,85 to 89,101.2
+British Columbia,Female,2016,85 to 89,76.9
+British Columbia,Female,2017,85 to 89,79.3
+British Columbia,Female,2018,85 to 89,76.5
+British Columbia,Female,2019,85 to 89,74.8
+British Columbia,Female,2020,85 to 89,73.9
+Northwest Territories,Male,2016,85 to 89,234.4
+Northwest Territories,Male,2017,85 to 89,212.1
+Northwest Territories,Male,2018,85 to 89,218.8
+Northwest Territories,Male,2019,85 to 89,101.4
+Northwest Territories,Male,2020,85 to 89,222.2
+Northwest Territories,Female,2016,85 to 89,123.5
+Northwest Territories,Female,2017,85 to 89,164.6
+Northwest Territories,Female,2018,85 to 89,173.9
+Northwest Territories,Female,2019,85 to 89,93.8
+Northwest Territories,Female,2020,85 to 89,186.4
+Nunavut,Male,2016,85 to 89,52.6
+Nunavut,Male,2017,85 to 89,208.3
+Nunavut,Male,2018,85 to 89,0
+Nunavut,Male,2019,85 to 89,87
+Nunavut,Male,2020,85 to 89,43.5
+Nunavut,Female,2016,85 to 89,333.3
+Nunavut,Female,2017,85 to 89,200
+Nunavut,Female,2018,85 to 89,136.4
+Nunavut,Female,2019,85 to 89,200
+Nunavut,Female,2020,85 to 89,38.5
+Newfoundland and Labrador,Male,2016,90+,246.5
+Newfoundland and Labrador,Male,2017,90+,288
+Newfoundland and Labrador,Male,2018,90+,241.7
+Newfoundland and Labrador,Male,2019,90+,235.3
+Newfoundland and Labrador,Male,2020,90+,245.9
+Newfoundland and Labrador,Female,2016,90+,213
+Newfoundland and Labrador,Female,2017,90+,214.6
+Newfoundland and Labrador,Female,2018,90+,220.5
+Newfoundland and Labrador,Female,2019,90+,189.8
+Newfoundland and Labrador,Female,2020,90+,212.6
+Prince Edward Island,Male,2016,90+,196.5
+Prince Edward Island,Male,2017,90+,247.2
+Prince Edward Island,Male,2018,90+,227.3
+Prince Edward Island,Male,2019,90+,244.8
+Prince Edward Island,Male,2020,90+,195.1
+Prince Edward Island,Female,2016,90+,178.1
+Prince Edward Island,Female,2017,90+,185.6
+Prince Edward Island,Female,2018,90+,225.9
+Prince Edward Island,Female,2019,90+,237.1
+Prince Edward Island,Female,2020,90+,195.8
+Nova Scotia,Male,2016,90+,236.8
+Nova Scotia,Male,2017,90+,269.5
+Nova Scotia,Male,2018,90+,263
+Nova Scotia,Male,2019,90+,238.9
+Nova Scotia,Male,2020,90+,239.6
+Nova Scotia,Female,2016,90+,199.8
+Nova Scotia,Female,2017,90+,207.6
+Nova Scotia,Female,2018,90+,207.1
+Nova Scotia,Female,2019,90+,207.6
+Nova Scotia,Female,2020,90+,198.3
+New Brunswick,Male,2016,90+,237.1
+New Brunswick,Male,2017,90+,268.2
+New Brunswick,Male,2018,90+,249.1
+New Brunswick,Male,2019,90+,257
+New Brunswick,Male,2020,90+,211.7
+New Brunswick,Female,2016,90+,182.7
+New Brunswick,Female,2017,90+,201.4
+New Brunswick,Female,2018,90+,196.3
+New Brunswick,Female,2019,90+,201.5
+New Brunswick,Female,2020,90+,180.9
+Quebec,Male,2016,90+,200.9
+Quebec,Male,2017,90+,208.2
+Quebec,Male,2018,90+,218
+Quebec,Male,2019,90+,204.3
+Quebec,Male,2020,90+,222.7
+Quebec,Female,2016,90+,167.5
+Quebec,Female,2017,90+,178.7
+Quebec,Female,2018,90+,183
+Quebec,Female,2019,90+,174.6
+Quebec,Female,2020,90+,197.2
+Ontario,Male,2016,90+,206.6
+Ontario,Male,2017,90+,213.4
+Ontario,Male,2018,90+,212.9
+Ontario,Male,2019,90+,208.4
+Ontario,Male,2020,90+,215.8
+Ontario,Female,2016,90+,169
+Ontario,Female,2017,90+,176.5
+Ontario,Female,2018,90+,180.5
+Ontario,Female,2019,90+,176.5
+Ontario,Female,2020,90+,183.2
+Manitoba,Male,2016,90+,227.5
+Manitoba,Male,2017,90+,239
+Manitoba,Male,2018,90+,217.4
+Manitoba,Male,2019,90+,226.1
+Manitoba,Male,2020,90+,221.9
+Manitoba,Female,2016,90+,182.7
+Manitoba,Female,2017,90+,187.1
+Manitoba,Female,2018,90+,193.4
+Manitoba,Female,2019,90+,182.1
+Manitoba,Female,2020,90+,193.5
+Saskatchewan,Male,2016,90+,209.3
+Saskatchewan,Male,2017,90+,222.8
+Saskatchewan,Male,2018,90+,220.3
+Saskatchewan,Male,2019,90+,223.4
+Saskatchewan,Male,2020,90+,212.2
+Saskatchewan,Female,2016,90+,187.9
+Saskatchewan,Female,2017,90+,175.7
+Saskatchewan,Female,2018,90+,184
+Saskatchewan,Female,2019,90+,173.5
+Saskatchewan,Female,2020,90+,181.6
+Alberta,Male,2016,90+,219
+Alberta,Male,2017,90+,221.3
+Alberta,Male,2018,90+,217.9
+Alberta,Male,2019,90+,209.4
+Alberta,Male,2020,90+,227.4
+Alberta,Female,2016,90+,180.6
+Alberta,Female,2017,90+,188.1
+Alberta,Female,2018,90+,181.8
+Alberta,Female,2019,90+,181.4
+Alberta,Female,2020,90+,187.9
+British Columbia,Male,2016,90+,217.3
+British Columbia,Male,2017,90+,216.2
+British Columbia,Male,2018,90+,200.1
+British Columbia,Male,2019,90+,199.8
+British Columbia,Male,2020,90+,212.9
+British Columbia,Female,2016,90+,176.6
+British Columbia,Female,2017,90+,185.5
+British Columbia,Female,2018,90+,179.7
+British Columbia,Female,2019,90+,178.6
+British Columbia,Female,2020,90+,177.8
+Northwest Territories,Male,2016,90+,310.3
+Northwest Territories,Male,2017,90+,307.7
+Northwest Territories,Male,2018,90+,322.6
+Northwest Territories,Male,2019,90+,206.9
+Northwest Territories,Male,2020,90+,38.5
+Northwest Territories,Female,2016,90+,212.8
+Northwest Territories,Female,2017,90+,333.3
+Northwest Territories,Female,2018,90+,145.5
+Northwest Territories,Female,2019,90+,280.7
+Northwest Territories,Female,2020,90+,55.6
+Nunavut,Male,2016,90+,125
+Nunavut,Male,2017,90+,125
+Nunavut,Male,2018,90+,181.8
+Nunavut,Male,2019,90+,153.8
+Nunavut,Male,2020,90+,83.3
+Nunavut,Female,2016,90+,333.3
+Nunavut,Female,2017,90+,285.7
+Nunavut,Female,2018,90+,125
+Nunavut,Female,2019,90+,0
+Nunavut,Female,2020,90+,250
+Yukon,Male,2016,0 to 1,4.4
+Yukon,Male,2017,0 to 1,4.4
+Yukon,Male,2018,0 to 1,4.4
+Yukon,Male,2019,0 to 1,4.4
+Yukon,Male,2020,0 to 1,4.4
+Yukon,Female,2016,0 to 1,8.9
+Yukon,Female,2017,0 to 1,8.9
+Yukon,Female,2018,0 to 1,8.9
+Yukon,Female,2019,0 to 1,8.9
+Yukon,Female,2020,0 to 1,8.9
+Yukon,Male,2016,1 to 4,0
+Yukon,Male,2017,1 to 4,0
+Yukon,Male,2018,1 to 4,0
+Yukon,Male,2019,1 to 4,0
+Yukon,Male,2020,1 to 4,0
+Yukon,Female,2016,1 to 4,0
+Yukon,Female,2017,1 to 4,0
+Yukon,Female,2018,1 to 4,0
+Yukon,Female,2019,1 to 4,0
+Yukon,Female,2020,1 to 4,0
+Yukon,Male,2016,5 to 9,0
+Yukon,Male,2017,5 to 9,0
+Yukon,Male,2018,5 to 9,0
+Yukon,Male,2019,5 to 9,0
+Yukon,Male,2020,5 to 9,0
+Yukon,Female,2016,5 to 9,0
+Yukon,Female,2017,5 to 9,0
+Yukon,Female,2018,5 to 9,0
+Yukon,Female,2019,5 to 9,0
+Yukon,Female,2020,5 to 9,0
+Yukon,Male,2016,10 to 14,0.9
+Yukon,Male,2017,10 to 14,0.9
+Yukon,Male,2018,10 to 14,0.9
+Yukon,Male,2019,10 to 14,0.9
+Yukon,Male,2020,10 to 14,0.9
+Yukon,Female,2016,10 to 14,0
+Yukon,Female,2017,10 to 14,0
+Yukon,Female,2018,10 to 14,0
+Yukon,Female,2019,10 to 14,0
+Yukon,Female,2020,10 to 14,0
+Yukon,Male,2016,15 to 19,0.9
+Yukon,Male,2017,15 to 19,0.9
+Yukon,Male,2018,15 to 19,0.9
+Yukon,Male,2019,15 to 19,0.9
+Yukon,Male,2020,15 to 19,0.9
+Yukon,Female,2016,15 to 19,1
+Yukon,Female,2017,15 to 19,1
+Yukon,Female,2018,15 to 19,1
+Yukon,Female,2019,15 to 19,1
+Yukon,Female,2020,15 to 19,1
+Yukon,Male,2016,20 to 24,1.7
+Yukon,Male,2017,20 to 24,1.7
+Yukon,Male,2018,20 to 24,1.7
+Yukon,Male,2019,20 to 24,1.7
+Yukon,Male,2020,20 to 24,1.7
+Yukon,Female,2016,20 to 24,0
+Yukon,Female,2017,20 to 24,0
+Yukon,Female,2018,20 to 24,0
+Yukon,Female,2019,20 to 24,0
+Yukon,Female,2020,20 to 24,0
+Yukon,Male,2016,25 to 29,3.4
+Yukon,Male,2017,25 to 29,3.4
+Yukon,Male,2018,25 to 29,3.4
+Yukon,Male,2019,25 to 29,3.4
+Yukon,Male,2020,25 to 29,3.4
+Yukon,Female,2016,25 to 29,2.1
+Yukon,Female,2017,25 to 29,2.1
+Yukon,Female,2018,25 to 29,2.1
+Yukon,Female,2019,25 to 29,2.1
+Yukon,Female,2020,25 to 29,2.1
+Yukon,Male,2016,30 to 34,1.9
+Yukon,Male,2017,30 to 34,1.9
+Yukon,Male,2018,30 to 34,1.9
+Yukon,Male,2019,30 to 34,1.9
+Yukon,Male,2020,30 to 34,1.9
+Yukon,Female,2016,30 to 34,0.6
+Yukon,Female,2017,30 to 34,0.6
+Yukon,Female,2018,30 to 34,0.6
+Yukon,Female,2019,30 to 34,0.6
+Yukon,Female,2020,30 to 34,0.6
+Yukon,Male,2016,35 to 39,1.5
+Yukon,Male,2017,35 to 39,1.5
+Yukon,Male,2018,35 to 39,1.5
+Yukon,Male,2019,35 to 39,1.5
+Yukon,Male,2020,35 to 39,1.5
+Yukon,Female,2016,35 to 39,0
+Yukon,Female,2017,35 to 39,0
+Yukon,Female,2018,35 to 39,0
+Yukon,Female,2019,35 to 39,0
+Yukon,Female,2020,35 to 39,0
+Yukon,Male,2016,40 to 44,3.1
+Yukon,Male,2017,40 to 44,3.1
+Yukon,Male,2018,40 to 44,3.1
+Yukon,Male,2019,40 to 44,3.1
+Yukon,Male,2020,40 to 44,3.1
+Yukon,Female,2016,40 to 44,0.7
+Yukon,Female,2017,40 to 44,0.7
+Yukon,Female,2018,40 to 44,0.7
+Yukon,Female,2019,40 to 44,0.7
+Yukon,Female,2020,40 to 44,0.7
+Yukon,Male,2016,45 to 49,5
+Yukon,Male,2017,45 to 49,5
+Yukon,Male,2018,45 to 49,5
+Yukon,Male,2019,45 to 49,5
+Yukon,Male,2020,45 to 49,5
+Yukon,Female,2016,45 to 49,2.2
+Yukon,Female,2017,45 to 49,2.2
+Yukon,Female,2018,45 to 49,2.2
+Yukon,Female,2019,45 to 49,2.2
+Yukon,Female,2020,45 to 49,2.2
+Yukon,Male,2016,50 to 54,5.7
+Yukon,Male,2017,50 to 54,5.7
+Yukon,Male,2018,50 to 54,5.7
+Yukon,Male,2019,50 to 54,5.7
+Yukon,Male,2020,50 to 54,5.7
+Yukon,Female,2016,50 to 54,1.9
+Yukon,Female,2017,50 to 54,1.9
+Yukon,Female,2018,50 to 54,1.9
+Yukon,Female,2019,50 to 54,1.9
+Yukon,Female,2020,50 to 54,1.9
+Yukon,Male,2016,55 to 59,6
+Yukon,Male,2017,55 to 59,6
+Yukon,Male,2018,55 to 59,6
+Yukon,Male,2019,55 to 59,6
+Yukon,Male,2020,55 to 59,6
+Yukon,Female,2016,55 to 59,3.8
+Yukon,Female,2017,55 to 59,3.8
+Yukon,Female,2018,55 to 59,3.8
+Yukon,Female,2019,55 to 59,3.8
+Yukon,Female,2020,55 to 59,3.8
+Yukon,Male,2016,60 to 64,10.8
+Yukon,Male,2017,60 to 64,10.8
+Yukon,Male,2018,60 to 64,10.8
+Yukon,Male,2019,60 to 64,10.8
+Yukon,Male,2020,60 to 64,10.8
+Yukon,Female,2016,60 to 64,4
+Yukon,Female,2017,60 to 64,4
+Yukon,Female,2018,60 to 64,4
+Yukon,Female,2019,60 to 64,4
+Yukon,Female,2020,60 to 64,4
+Yukon,Male,2016,65 to 69,14.2
+Yukon,Male,2017,65 to 69,14.2
+Yukon,Male,2018,65 to 69,14.2
+Yukon,Male,2019,65 to 69,14.2
+Yukon,Male,2020,65 to 69,14.2
+Yukon,Female,2016,65 to 69,8.1
+Yukon,Female,2017,65 to 69,8.1
+Yukon,Female,2018,65 to 69,8.1
+Yukon,Female,2019,65 to 69,8.1
+Yukon,Female,2020,65 to 69,8.1
+Yukon,Male,2016,70 to 74,26.1
+Yukon,Male,2017,70 to 74,26.1
+Yukon,Male,2018,70 to 74,26.1
+Yukon,Male,2019,70 to 74,26.1
+Yukon,Male,2020,70 to 74,26.1
+Yukon,Female,2016,70 to 74,25.3
+Yukon,Female,2017,70 to 74,25.3
+Yukon,Female,2018,70 to 74,25.3
+Yukon,Female,2019,70 to 74,25.3
+Yukon,Female,2020,70 to 74,25.3
+Yukon,Male,2016,75 to 79,44.5
+Yukon,Male,2017,75 to 79,44.5
+Yukon,Male,2018,75 to 79,44.5
+Yukon,Male,2019,75 to 79,44.5
+Yukon,Male,2020,75 to 79,44.5
+Yukon,Female,2016,75 to 79,24.8
+Yukon,Female,2017,75 to 79,24.8
+Yukon,Female,2018,75 to 79,24.8
+Yukon,Female,2019,75 to 79,24.8
+Yukon,Female,2020,75 to 79,24.8
+Yukon,Male,2016,80 to 84,56.6
+Yukon,Male,2017,80 to 84,56.6
+Yukon,Male,2018,80 to 84,56.6
+Yukon,Male,2019,80 to 84,56.6
+Yukon,Male,2020,80 to 84,56.6
+Yukon,Female,2016,80 to 84,72.8
+Yukon,Female,2017,80 to 84,72.8
+Yukon,Female,2018,80 to 84,72.8
+Yukon,Female,2019,80 to 84,72.8
+Yukon,Female,2020,80 to 84,72.8
+Yukon,Male,2016,85 to 89,89.9
+Yukon,Male,2017,85 to 89,89.9
+Yukon,Male,2018,85 to 89,89.9
+Yukon,Male,2019,85 to 89,89.9
+Yukon,Male,2020,85 to 89,89.9
+Yukon,Female,2016,85 to 89,112.1
+Yukon,Female,2017,85 to 89,112.1
+Yukon,Female,2018,85 to 89,112.1
+Yukon,Female,2019,85 to 89,112.1
+Yukon,Female,2020,85 to 89,112.1
+Yukon,Male,2016,90+,142.9
+Yukon,Male,2017,90+,142.9
+Yukon,Male,2018,90+,142.9
+Yukon,Male,2019,90+,142.9
+Yukon,Male,2020,90+,142.9
+Yukon,Female,2016,90+,183.1
+Yukon,Female,2017,90+,183.1
+Yukon,Female,2018,90+,183.1
+Yukon,Female,2019,90+,183.1
+Yukon,Female,2020,90+,183.1
