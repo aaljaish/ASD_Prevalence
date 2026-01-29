@@ -1,22 +1,16 @@
 # Analysis to estimate autism prevalence among Canadian adults
-The code is manipulating a dataset based on ASD (Autism Spectrum Disorder). It's iterating through groups of data by province and sex, calculating various statistics such as ASD prevalence, mortality rate, number of ASD cases, ASD survival rate, rho_adj, and gamma_adj, and appending these values to respective lists.
+The code is manipulating a dataset based on ASD (Autism Spectrum Disorder). It's iterating through groups of data by province and sex, calculating various statistics (e.g., ASD prevalence, mortality rate, number of ASD cases, ASD survival rate)and appending these values to respective lists.
 
-**Methods**
-We used a Monte Carlo simulation to estimate the prevalence of Autism Spectrum Disorder (ASD) across various Canadian provinces. This involved considering a range of factors such as age, sex, population sizes, age-specific mortality rates,  and relative rate of mortality for those with ASD compared to those without.
+## Methods
+**Design**: A Monte Carlo simulation modelling approach was employed. Input parameters included adult population estimates and mortality rates; autism population all-cause mortality risk ratios; and autism prevalence estimates derived from child and youth data due to the lack of adult data. This approach was executed through 10 000 simulations, with each iteration generating a distinct data scenario. Prevalence estimates were reported as the mean with the 2.5th and 97.5th percentiles, corresponding to a 95% simulation interval (SI).
 
-Initially, we categorized our dataset into distinct groups based on province and sex, with each group encapsulating data associated with age, population, and several ASD-related parameters.
+**Setting**: Where possible, Canadian data sources were used, including the 2019 Canadian Health Survey on Children and Youth and Statistics Canada mortality rates and population estimates.
 
-Within each simulation run, the hazard ratio for death was recalculated by selecting a value from a normal distribution defined by a specific mean and standard error. This technique facilitated the simulation of a plausible level of random variation. For every province-sex group, the initial calculation of ASD prevalence was based on a presumed normal distribution centred around the given prevalence value and its standard error. 
+**Primary outcome**: National prevalence estimates of autistic adults living in private dwellings in Canada, with variations in prevalence by sex at birth and province/territory considered.
 
-Following this, within each age category of a group, we calculated several variables. These included the ASD mortality rate, calculated as the product of the group's hazard ratio for death and the survival rate of the general population. The number of ASD cases was also calculated, using the group's population and the ASD prevalence. An adjusted ASD prevalence was computed to reflect the probable effect of the ASD survival rate on the prevalence. Lastly, the adjusted number of ASD cases in the population was estimated by multiplying the group's population by the adjusted ASD prevalence.
+**Please see full details of methods here**: https://doi.org/10.1136/bmjopen-2024-089414
 
-This procedure was repeated across all age groups within each province-sex grouping. The data from each simulation run, including the calculated values and the province, sex, age, and population data, was then aggregated. 
-
-This approach was conducted over a pre-set number of simulations, each iteration generating a unique data scenario, thereby constructing a wide array of plausible outcomes. This extensive collection of scenarios enabled a comprehensive understanding of the variability and potential range of ASD prevalence across Canadian provinces.
-
-This simulation-based approach provided a robust mechanism for estimating ASD prevalence, taking into account inherent uncertainties in population-based studies and potential random variation in key parameters such as the hazard ratio for death and ASD prevalence.
-
-# Description of columns in "Clean ASD Dataset.csv" file.
+## Description of columns in "Clean ASD Dataset.csv" file.
 
 data=pd.read_csv('Clean ASD Dataset.csv')
 data.head()
